@@ -1,0 +1,477 @@
+URL: https://www.ciena.com/products/ciena-services/transform
+
+Products and services
+Network insights
+Sales and support
+About us
+Transformation
+Accelerate your network transformation
+Network transformation is about much more than just technology. It requires a nuanced approach with experts who take a broad view of your business strategy and goals and translate them into network outcomes your customers expect.
+You need an experienced, trusted partner
+Are there a few trouble spots in your network or are you thinking of a comprehensive network transformation? We collaborate with you leveraging your business insights and our industry experience. Our team combines data analytics and tailored automation tools with our proven methodology to ensure an effective network transformation that meets your business needs and maximizes ROI.
+Network transformation in action
+Sometimes the hardest part about transforming your network is getting started. Take a look at these resources to learn how we can help you overcome barriers and identify opportunities to maximize ROI, applying our experience and expertise to deliver successful outcomes—even when we’re not part of your network.
+Network transformation here and now
+Your network must support high-quality bandwidth and accommodate steadily increasing, unpredictable traffic. Legacy networks can’t hold up. This eBook explores the barriers that stifle network transformation and outlines a well-proven methodology for project success.
+Verizon and Ciena collaborate to deliver successful network transformation
+Verizon needed to transform their network and turned to an experienced partner for assistance. Verizon’s journey of modernization enables the delivery of new services and increases network reliability and operating efficiency, providing the roadmap for digital transformation for its customers.
+Taking network transformation efficiency to the next level
+Business models are being rebuilt from the ground up and transforming networks has become a mission critical task. Ciena Services helps maximize efficiency and ROI relying on a proven analytical approach focused on business outcomes.
+Upgrade fixed-grid network to next-gen optical network flexibility.
+Maximizing efficiency and business outcomes for a cloud leader.
+Migrate complex legacy platforms onto a next-generation network.
+Reducing risk and OPEX for a Tier-1 communications service provider.
+Services-led multi-vendor transformation for a non-Ciena network.
+Dramatically faster planning and migration, and a permanent improvement in operational processes.
+Ciena’s transformation methodology
+Sometimes it can be tempting to jump into a transformation project and just start deploying equipment and migrating circuits. Our experience has shown that spending sufficient time on strategy and planning upfront leads to successful outcomes.
+Ciena has a proven, comprehensive methodology for network transformation that we’ve used with customers around the world.
+Learn more about our transformation methodology.
+Related insights and resources
+Videos
+This video explores how we partner with you to build trust and outperform expectations.
+White Papers
+With Ciena, Verizon was able to build a parallel network — minimizing disruptions and reducing risk to end users — that was less complex to roll out and made service migration easier.
+Articles
+CSPs operate within a constant state of change, and at any given time face challenges that require some form of transformation. TBR’s Chris Antlitz details six key partner attributes that have been historically linked with network transformation success.
+Infographics and posters
+TBR has identified key partner attributes historically linked with network transformation success.
+Infobriefs
+Migrating from a fixed- to a flex-grid photonic network architecture—and the new operational paradigm this entails—can seem overwhelming.
+Infobriefs
+Today, an increasing number of carriers and service providers are compelled to transition away from TDM technologies—which are rapidly going obsolete
+Case Studies
+Today, Southern Cross is working with Ciena to realize a network that's even more adaptive, with enhanced programmability, scale, automation, and intelligence.
+Case Studies
+A leading UK operator is leveraging Ciena’s multi-vendor implementation services, including plan, design, and deploy activities, to accelerate expansion.
+Case Studies
+The operator’s far-reaching modernization program included Ciena Services to design and deliver a network that can adapt.
+View more
+View more
+Questions? Ask the community
+Want to know more about Managed and Maintenance Services? Let’s talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

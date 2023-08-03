@@ -1,0 +1,568 @@
+URL: https://www.ciena.com/products/manage-control-plan
+
+Products and services
+Network insights
+Sales and support
+About us
+MCP Applications
+Level up to intelligent network control
+Analytics. Automation. Agility.
+Digital connectivity demands continue to increase rapidly. Networking technology is advancing at top speed to keep pace, and IP and optical architectures are converging. Now is the time to go beyond legacy Network Management Systems (NMS) and industry Software-Defined Networking (SDN) practices and take network operations to a new level with multi-layer intelligent network control, offered by Ciena’s Manage, Control and Plan (MCP) Applications.
+With Ciena’s MCP domain controller as their foundation, MCP Applications provide analytics, software control, and automation to optimize multi-layer network performance and supercharge network operations to exceptional levels of efficiency and boost business agility.
+MCP Applications benefits
+Unified multi-layer view
+Drive operational efficiencies through consistent and rapid planning, provisioning, and assurance of network services across multi-layer infrastructure with MCP Applications’ centralized, accurate view of the state of multi-vendor optical, Ethernet, and IP infrastructure.
+Network performance optimization
+Utilize Liquid Spectrum™, Adaptive IP™ Apps, and advanced analytics apps—all built on the MCP platform—to optimize multi-layer network performance from the photonic layer to the IP layer, and extract the most value from your infrastructure investment.
+Automated network operations
+Leverage MCP Applications’ open REST APIs and Ciena’s Emulation Cloud to integrate easily with Operational Support Systems (OSS), and streamline and automate end-to-end workflows, reducing OPEX.
+Customer References
+Ciena Selected to Deploy Leading-Edge Packet Network for Telefónica UK
+"Migrating to a modernized network capable of automated services is absolutely necessary as we continue to develop 5G and IoT applications."
+- Jorge Ribeiro, Head of Infrastructure, Telefónica UK
+Press release
+Ciena Bolsters SK Telink’s Transpacific Route
+"Our customers are consuming data at a breakneck speed and to keep up, we deployed Ciena to build one of the first packet-based transport networks in a transpacific route to reinforce our commitment to world-class telecom service."
+- Jeongyeol Lee, Director of ICT Infra Headquarters, SK Telink
+Press release
+AT&T Launches Industry-First 400-Gigabit Network Connection to Support Video, Augmented Reality, Gaming and Other 5G Needs
+"This accomplishment also speaks to the tremendously collaborative ecosystem we’ve helped foster with key innovators in optical technology, white box hardware, and software-defined networking."
+- Andre Fuetsch, Executive Vice President and Chief Technology Officer, AT&T
+Press release
+End-to-end visibility and management
+“Online content, especially streaming video, continues to drive robust demand for data and high-speed connectivity in the regions we serve. The additional capacity we’re turning up on CFX-1 and EWC with Ciena allows us to meet this demand head-on, enriching our service offerings for customers while sustainably and cost-effectively extending the lifespan of these cable systems.”
+-Chris Coles, Vice President and General Manager, C&W Networks
+Press release
+Spark starts roll out of new faster, ‘self healing’ network technology
+"The optical restoration ‘self-healing’ technology allows the light signals that carry the data to automatically change their path after a fibre cut, so this is a big step forward."
+- Campbell Fraser, Technology Tribe Lead, Spark
+Press release
+Windstream Selects Ciena for Next-Generation National Converged Optical Network
+"After extensive review in our quest to innovate and meet growing customer demands, it was clear that Ciena was the best partner to support our nationwide network transformation and ability to adapt to digital disruption."
+- Buddy Bayer, Chief Network Officer, Windstream
+Press release
+Infonas Takes Network Management to the Cloud with Ciena
+"With streamlined network operations, we can scale to offer our diverse customer base a robust user experience."
+- Hamad Al-Amer, Managing Director and Board Member, Infonas
+Press release
+Analytical insights of national backbone performance
+“Escalating demand for data requires a high-capacity and resilient network that can thrive not only today but for years to com. Preparing a future-fit network, through our partnership with Ciena, will enable Vi subscribers to experience world-class highly available, scalable connectivity and realize the benefits of cloud, IoT, and 5G in the future.”
+- Jagbir Singh, Chief Technology Officer, Vodafone Idea Ltd
+Press release
+Central Lincoln People’s Utility District Transforms Network with Ciena and SEL
+"Ciena and SEL not only met our strict latency requirements but delivered on our need to have a network that is easily and efficiently managed while providing a clear delineation between IT and OT domains and maintaining security protocol."
+- Ron Beck, Chief Engineer, Central Lincoln People’s Utility District
+Blog
+Telefónica UKProactive issue prevention
+Telefónica UKProactive issue prevention
+SK TelinkPacket network lifecycle operations
+SK TelinkPacket network lifecycle operations
+AT&TONAP interoperability via open APIs
+AT&TONAP interoperability via open APIs
+C&WEnd-to-end visibility and management
+C&WEnd-to-end visibility and management
+Spark (New Zealand)Liquid Spectrum analytics
+Spark (New Zealand)Liquid Spectrum analytics
+Windstream Automation and operational diagnostics
+Windstream Automation and operational diagnostics
+Infonas Agility with Hosted MCP Service
+Infonas Agility with Hosted MCP Service
+Vodafone IdeaAnalytical insights of national backbone performance
+Vodafone IdeaAnalytical insights of national backbone performance
+Central Lincoln People’s Utility DistrictReal-time power grid visibility
+Central Lincoln People’s Utility DistrictReal-time power grid visibility
+Accelerate your journey to intelligent network control
+Getting the most from your investment in Ciena’s MCP Applications is critical. And speed matters. Ciena’s MCP Applications Services—a suite of services that includes Consulting, Implementation, Systems Integration, Maintenance, Managed Services, Optimization and Learning—is designed to help you realize the benefits of MCP Applications faster, while you maintain focus on your core competencies.
+Related insights and resources
+Articles
+...
+Looking for a reasonable approach to getting started deploying coherent pluggables? Ciena’s Tim Pearson provides the final two st ...
+...
+Articles
+...
+We’re pleased to announce that Ciena’s Manage, Control and Plan (MCP) domain controller has been awarded TIP’s Bronze Badge for c ...
+...
+Articles
+...
+Coherent Routing is a hot topic in the industry due to the promise of greater scalability, flexibility, and sustainability in the ...
+...
+Videos
+...
+With MCP Applications, service providers gain multi-layer, intelligent network control to manage the full lifecycle of coherent r ...
+...
+Articles
+...
+What is an Intelligent Network Controller? Ciena’s Tim Pearson explains the real value that lies behind this new term.
+Videos
+MCP Applications gives you the intelligent network control you need to pinpoint and resolve fiber faults quickly.
+White Papers
+This white paper provides the industry’s most in-depth look at the current state and future trajectory of coherent optical transm ...
+...
+White Papers
+...
+The adoption of SDN domain controllers improves network management and should be a central element in an IT-based digital transfo ...
+...
+Articles
+...
+IP and optical network layers are converging, providing new challenges to the operations teams tasked with managing them. To get  ...
+...
+Videos
+...
+MCP Applications gives you the intelligent network control you need to troubleshoot DCN issues.
+Videos
+...
+This video shows how MCP Applications simplify, accelerate, and automate operations to help you prevent optical network capacity  ...
+...
+Articles
+...
+How can real-time analytics unlock new benefits to help you build and manage an ultra-resilient submarine network that exceeds yo ...
+...
+Infobriefs
+...
+Submarine networks are essential to today’s connected world, carrying 99 percent of intercontinental electronic communications tr ...
+...
+Articles
+...
+Communications networks are like those multi-layered cakes, and over-the-top applications are the frosting. Without intelligent n ...
+...
+Videos
+...
+With Ciena’s Manage, Control and Plan (MCP) Applications, network operations teams gain intelligent network control to plan, mana ...
+...
+Videos
+...
+Ciena’s Emulation Cloud moves testing and integration of products and applications to the cloud.
+View more insights
+View more insights
+Related MCP Applications
+Adaptive IP Apps
+Liquid Spectrum Advanced Software Applications
+PlannerPlus
+Emulation Cloud for Open Application Development
+Questions? Ask the community
+Want to know more about MCP? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

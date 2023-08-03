@@ -1,0 +1,521 @@
+URL: https://www.ciena.com/products/6500-S32
+
+Products and services
+Network insights
+Sales and support
+About us
+Ask the community
+All Products
+Technical documentation
+Share
+6500-S32
+6500 Packet-Optical Platform
+Designed for high-capacity networking, the 6500-S32 converges comprehensive Ethernet, TDM, and WDM capabilities with unconstrained hybrid packet/OTN switching and an intelligent control plane to maximize the bandwidth efficiency and flexibility of the overall network.
+Features
+Utilizes 3.2 Tb/s of unrestricted hybrid packet/OTN switching for the most efficient use of network resources
+Supports the full suite of photonic architectures for service transport over high-capacity wavelengths from 2.5G to 400G
+Enables simplified operations and reduced sparing costs through seamless networking flexibility with the 6500 Family
+Supports both muxponder- and central fabric-based packet/OTN switching solutions, enabling cost-optimized configurations
+Offers industry-leading WaveLogic coherent technology and intelligent control plane capabilities for scale and service differentiation
+Provides a range of differentiated service offerings through various line and equipment protection options
+Specs
++Physical Dimensions 22U 38.5 in (H) x 19.6 in (W) x 10.9 in (D) (977mm x 498mm x 278mm)
++
+22U 38.5 in (H) x 19.6 in (W) x 10.9 in (D) (977mm x 498mm x 278mm)
++Power Options Redundant breakered/fused 3x60A power cardsRedundant breakered/fused 4x60A power cards (NTK603AB only)
++
+Redundant breakered/fused 3x60A power cards
+Redundant breakered/fused 4x60A power cards (NTK603AB only)
++Capacity Packet/OTN: 3.2 Tb/s Packet/OTN XC: up to 3.2TSystem: Up to 30.4 Tb/sWDM: 2.5G to 400G
++
+Packet/OTN: 3.2 Tb/s Packet/OTN XC: up to 3.2T
+System: Up to 30.4 Tb/s
+WDM: 2.5G to 400G
++Number of service card slots 32
++
+32
++Supported service interface cards Packet/OTN switched modules 10x10G PKT/OTN1x100G + 2x40G PKT/OTN100G DWDM PKT/OTN16x2.7G OTN48xGbEPhotonic Modules Full suite of passive filters, 50GHz, 75GHz, 100GHz, flexible grid ROADMs, EDFAs, Smart Raman, and Colorless, Directionless, Contentionless, Coherent Select ArchitectureTransponders/Muxponders 400G ADM-on-a-blade: 2x100G/200G coherent line(s) muxponder (36 client ports)Coherent 400G muxponder (4x100G) with integrated OPS (Optical Protection Switch)Coherent 400G flexible service transponder (34 client ports) with integrated OPS (Optical Protection Switch)Coherent 100GE/OTU4 transponderCoherent 100G muxponder (10x10G)Coherent tunability from 100G to 400G in 50G incrementsCoherent 200G client card: 2x100GE or 5x40GE/10GECoherent 100G client cards: 10x10GE, 10x10G multi-rate, 2x40G+2x10G, 100GbE/OTU4 clientFIPS-certified AES-256 wire-speed coherent 100G/200G encryption solutionCoherent 40G line cards: metro, regional, long haul, ultra long haul, enhanced PMD, submarine, colorless4x10G multi-rate OTR: FIPS-certified AES-256 encryption and OSP Class 2 GR-3108-CORE variantSONET/SDH 10G ADM-on-a-blade: SuperMuxEthernet: 152G eMOTR, 68G eMOTR Edge, 30G L2MOTROTN modules: 8-port OTN Flex MOTR (2.7G), 1+8 port OTN Flex MOTR (10G) with OSP Class 2 GR-3108-CORE variant
++
+Packet/OTN switched modules 10x10G PKT/OTN1x100G + 2x40G PKT/OTN100G DWDM PKT/OTN16x2.7G OTN48xGbE
+10x10G PKT/OTN
+1x100G + 2x40G PKT/OTN
+100G DWDM PKT/OTN
+16x2.7G OTN
+48xGbE
+Photonic Modules Full suite of passive filters, 50GHz, 75GHz, 100GHz, flexible grid ROADMs, EDFAs, Smart Raman, and Colorless, Directionless, Contentionless, Coherent Select Architecture
+Full suite of passive filters, 50GHz, 75GHz, 100GHz, flexible grid ROADMs, EDFAs, Smart Raman, and Colorless, Directionless, Contentionless, Coherent Select Architecture
+Transponders/Muxponders 400G ADM-on-a-blade: 2x100G/200G coherent line(s) muxponder (36 client ports)Coherent 400G muxponder (4x100G) with integrated OPS (Optical Protection Switch)Coherent 400G flexible service transponder (34 client ports) with integrated OPS (Optical Protection Switch)Coherent 100GE/OTU4 transponderCoherent 100G muxponder (10x10G)Coherent tunability from 100G to 400G in 50G incrementsCoherent 200G client card: 2x100GE or 5x40GE/10GECoherent 100G client cards: 10x10GE, 10x10G multi-rate, 2x40G+2x10G, 100GbE/OTU4 clientFIPS-certified AES-256 wire-speed coherent 100G/200G encryption solutionCoherent 40G line cards: metro, regional, long haul, ultra long haul, enhanced PMD, submarine, colorless4x10G multi-rate OTR: FIPS-certified AES-256 encryption and OSP Class 2 GR-3108-CORE variantSONET/SDH 10G ADM-on-a-blade: SuperMuxEthernet: 152G eMOTR, 68G eMOTR Edge, 30G L2MOTROTN modules: 8-port OTN Flex MOTR (2.7G), 1+8 port OTN Flex MOTR (10G) with OSP Class 2 GR-3108-CORE variant
+400G ADM-on-a-blade: 2x100G/200G coherent line(s) muxponder (36 client ports)
+Coherent 400G muxponder (4x100G) with integrated OPS (Optical Protection Switch)
+Coherent 400G flexible service transponder (34 client ports) with integrated OPS (Optical Protection Switch)
+Coherent 100GE/OTU4 transponder
+Coherent 100G muxponder (10x10G)
+Coherent tunability from 100G to 400G in 50G increments
+Coherent 200G client card: 2x100GE or 5x40GE/10GE
+Coherent 100G client cards: 10x10GE, 10x10G multi-rate, 2x40G+2x10G, 100GbE/OTU4 client
+FIPS-certified AES-256 wire-speed coherent 100G/200G encryption solution
+Coherent 40G line cards: metro, regional, long haul, ultra long haul, enhanced PMD, submarine, colorless
+4x10G multi-rate OTR: FIPS-certified AES-256 encryption and OSP Class 2 GR-3108-CORE variant
+SONET/SDH 10G ADM-on-a-blade: SuperMux
+Ethernet: 152G eMOTR, 68G eMOTR Edge, 30G L2MOTR
+OTN modules: 8-port OTN Flex MOTR (2.7G), 1+8 port OTN Flex MOTR (10G) with OSP Class 2 GR-3108-CORE variant
++Certifications Common Criteria Network Device Collaborative Protection ProfileFIPS 140-2 Level 2 and 3FIPS 197 AES–256BSI (German Federal Office of Information Security)IBM GDPSSAN environments: Dell/EMC, Brocade and Cisco switches
++
+Common Criteria Network Device Collaborative Protection Profile
+FIPS 140-2 Level 2 and 3
+FIPS 197 AES–256
+BSI (German Federal Office of Information Security)
+IBM GDPS
+SAN environments: Dell/EMC, Brocade and Cisco switches
++Environmental Characteristics Operating Temperature +41°F to +104°F (+5°C to +40°C) normal+23°F to +122°F (-5°C to +50°C) short termRelative Humidity 5% to 85% (non-condensing)Earthquake/seismic Zone 4
++
+Operating Temperature +41°F to +104°F (+5°C to +40°C) normal+23°F to +122°F (-5°C to +50°C) short term
++41°F to +104°F (+5°C to +40°C) normal
++23°F to +122°F (-5°C to +50°C) short term
+Relative Humidity 5% to 85% (non-condensing)
+5% to 85% (non-condensing)
+Earthquake/seismic Zone 4
+Zone 4
+3D Product View
+Related insights and resources
+6500-S32_DS.pdf
+Brochures
+6500 Packet-Optical Platform
+View more
+View more
+Related products and services
+Multi-layer intelligent control plane
+Routing and Switching Platforms
+Manage, Control and Plan (MCP) Applications
+6500-D2
+6500-D7/S8
+6500-D14/S14
+6500 T-Series
+6500 Reconfigurable Line System
+Questions? Ask the community.
+Want to know more about the 6500-S32? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

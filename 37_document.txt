@@ -1,0 +1,483 @@
+URL: https://www.ciena.com/products/6500-reconfigurable-line-system
+
+Products and services
+Network insights
+Sales and support
+About us
+Ask the community
+All Products
+Technical documentation
+Share
+6500 Reconfigurable Line System
+If you’re a network operator trying to manage bandwidth-intensive applications—like connecting data centers, increasing capacity on submarine cables, or building out 4G/5G wireless infrastructures—your network must be ready to adapt to changes. You need to get more out of your photonic line system. More scale. More density. More programmability. All while taking up less space.
+The 6500 Reconfigurable Line System (RLS) is a compact, simple-to-deploy, photonic layer solution that improves scalability, reduces footprint, and offers more flexibility and programmability. You can quickly react to unpredictable traffic requirements by easily scaling nodal connectivity and wavelength add/drop capacity with its highly dense ROADM and amplifier configurations. And with 6500 RLS, increasing fiber capacity with the L-band is just as easy as lighting the C-band—you get double the fiber capacity with no impact to existing, in-service C-band traffic.
+Key benefits
+Automate optical networking through a modern photonic line software architecture designed for deployments at scale
+Access full efficiency benefits of the optical layer with operational simplicity and predictable performance
+Efficiently scale to meet your highest capacity network requirements with an optimized, ultra-dense photonic layer
+Conserve space by reducing footprint as much as 70 percent compared to traditional chassis-based systems, with a modular and compact form factor
+Simplify deployment, operation, and troubleshooting with built-in tools like Zero-Touch Provisioning (ZTP), network auto-discovery, and real-time network monitoring and visibility
+Double your fiber capacity with the simplest upgrade to L-band
+Network applications:
+Long-haul networking
+Easily provision or reconfigure services across a flexible ROADM-based network designed to support any generation coherent technology
+Get massive scalability for your largest DCI deployments with an optimized C&L-band architecture
+Improve photonic system performance with Raman amplification  by supporting longer spans, higher capacity, and/or greater reach
+MetroDCI
+Reduce cost per bit with fixed-grid filters optimized for your choice of coherent optics
+Accelerate deployments with an automated operational model
+Reduce footprint with highly dense, compact form-factors that scale to cover your smallest and largest site
+Resilient, automated networking with L0 Control Plane
+Simplify and automate wavelength turn-up and management
+Improve network survivability with a field-proven, Layer 0 intelligent control plane
+Rapidly adapt to problems, outages and other issues that could adversely affect your network’s performance
+Double fiber capacity—the easy way
+Eliminate the need for L-band upgrade amplifier site visits with an integrated C&L-band amplifier architecture
+Easily expand into the L-band with no impact to existing, in-service C-band traffic by leveraging built-in ASE noise loading
+Eliminate additional planning or engineering for L-band with stable, optimal performance intelligently maintained across the full life of the system
+6500 RLS integrated C&L-band architecture
+With Ciena’s integrated C&L-band solution, adding wavelengths to the L-band is just as easy as lighting the C-band.  You get double the capacity, with no headaches. No complex re-engineering or re-balancing of the line system.  And most importantly, no impact to existing C-band channels.
+Want to learn more?  Click through the steps below to see a sample installation from the initial deployment to growing traffic in the C- and L-bands.
+Related insights and resources
+Videos
+Learn how RLS is improving density for C&L-band deployments, and how it helps network providers evolve from wavelength and dark fiber services to new spectrum-based services.
+Application Notes
+Bandwidth demands are exploding in a variety of applications, and network operators are struggling to scale network capacity to provide the speeds that end-users expect. Furthermore, space constraints in these applications are driving the need to
+Data Sheets
+Ciena’s 6500 Reconfigurable Line System (RLS) delivers scale and programmability for the photonic layer while maximizing operational efficiencies.
+White Papers
+Networks with high bandwidth applications and sustained bandwidth growth are quickly facing capacity exhaust on routes between key locations.
+View more
+View more
+Related products and services
+WaveLogic Photonics
+6500 Family
+Waveserver high-capacity, compact modular transport devices
+Manage, Control and Plan (MCP) Applications
+Questions? Ask the community
+Want to know more about the 6500 Reconfigurable Line System? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

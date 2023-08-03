@@ -1,0 +1,475 @@
+URL: https://www.ciena.com/products/virtualized-edge-solution
+
+Products and services
+Network insights
+Sales and support
+About us
+Ciena Virtualized Edge Solution
+Our field-proven experience is leading the way.
+We know how to navigate the most complex network virtualization strategies. Because we’ve done it. Working with the world’s leading global service providers has given us the experience to guide our customers in developing and deploying their virtualized networks. Whether you’re a service provider or enterprise ready to gain the network agility you need, the Ciena Virtualized Edge Solution provides the most complete, open and proven approach.
+For service providers
+Streamline your virtualization strategies, expand your services portfolio, and deliver the superior experiences customers demand — with confidence. The Ciena Virtualized Edge Solution accelerates time to market, creates new revenue streams, and helps you realize CAPEX and OPEX savings.
+For enterprises
+Enterprises want the simplicity, efficiency, and agility that virtualized services can provide. The Ciena Virtualized Edge Solution is field-proven to deliver innovative business services that create a competitive edge for any enterprise.
+Ciena Virtualized Edge Solution
+The Ciena Virtualized Edge Solution leverages our Adaptive Network™ approach to help our customers successfully implement their network virtualization strategies with superior reliability, openness, and agility.
+Ciena offers a comprehensive and modular end-to-end solution composed of our leading packet, intelligent automation software, and professional services capabilities. Together these elements deliver carrier-class connectivity, multiple x86 server options, real-time analytics and automation, and the implementation know-how to support any virtualization strategy.
+Key components of the Ciena Virtualized Edge Solution
+Advanced packet platforms
+Leveraging our advanced packet platforms—3906 and 3926—along with Ciena D-NFVI software, the Ciena Virtualized Edge Solution delivers a highly scalable and reliable carrier-class infrastructure. It supports services up to 10 Gb/s, multiple options for in-field replaceable x86 servers, and multi-vendor VNF hosting capabilities. This solution is ideal for customers transitioning from a physical to a virtual network edge infrastructure.
+Intelligent Automation Software
+Blue Planet’s multi-vendor Virtual Edge Automation capabilities—leveraging Network Function Virtualization and Multi-Domain Service Orchestration (NFVO/MDSO), as well as Unified Assurance and Analytics (UAA)—enable customers to rapidly deliver high-value managed services like firewalls, routers, and other edge services. As part of the Ciena Virtualized Edge Solution, these capabilities reduce the order-to-service interval to minutes, increase service revenues by up to 20%, and reduce OPEX by up to 80%.
+For service providers and enterprises seeking reliable, high-performance branch office connectivity, Blue Planet also offers an SD-WAN Automation solution. This solution is proven to speed service activation by up to 75% and decrease related OPEX by up to 90%.
+The solution also includes Ciena’s microservice-based domain controlled Manage, Control, and Plan (MCP) to support and simplify multi-layer Ciena implementations.
+Systems Integration Service
+Complex network evolution requires highly specialized Systems Integration (SI) capabilities. Ciena’s SI Service provides deep expertise and experience, gained by enabling some of the world’s largest and most complex networks. We focus on service providers’ operational processes and network environments. Together with Ciena’s industry-leading hardware and software solutions, we’re the ideal systems integration partner for your network evolution.
+Related insights and resources
+Videos
+Hear from Ciena’s team of cross-functional edge leaders to learn the four key ingredients to facilitate the shift to multi-service cloud virtualization and edge compute infrastructure.
+Infobriefs
+ACG Research has developed a custom tool that models the benefits of the Ciena Virtualized Edge Solution to help you build your business case.
+Infobriefs
+Ciena’s Systems Integration Service supports the entire lifecycle of Virtualized Network Function (VNF) services.
+Infobriefs
+When your IT infrastructure is made up of disparate, separate physical devices, it can create challenges that impact end-users.
+Case Studies
+The Ciena Virtualized Edge Solution enabled smooth transition from physical network device replacement to a Virtual Network Function (VNF) environment.
+Case Studies
+Ciena simplified the complex Network Functions Virtualization (NFV) deployment across 1,800 locations of this retail giant.
+Case Studies
+Ciena helped to simplify complex Network Functions Virtualization (NFV) deployment across physicians’ offices, clinics, hospitals and research centers.
+Infographics and posters
+Is it time to virtualize your branch IT infrastructure? If you’re facing the following challenges, it’s time to simplify and save with virtualization.
+Application Notes
+Most enterprises understand that, after virtualizing their IT assets, the virtualization of their network assets is the next step of their digital transformation.
+Videos
+In this video Mark Molitor talks about the Business Analytics Engine (BAE) tool with Peter Fetterolf from ACG research.
+View more
+View more
+Get the latest Network Insights.
+Ready to transform your network? Let’s talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

@@ -1,0 +1,615 @@
+URL: https://www.ciena.com/products/waveserver-5
+
+Products and services
+Network insights
+Sales and support
+About us
+Waveserver
+Family of high-capacity, compact, modular transport devices
+The Waveserver® family of stackable interconnect platforms delivers more capacity and lower power for high-growth, bandwidth-intensive applications. The Waveserver family provides massive scale to meet the surging capacity needs of the most demanding cloud applications and data services. With a simple, server-like operational model leveraging open API programmability, the Waveserver family eases platform integration and facilitates volume deployments.
+Family of products | Waveserver 5 | Waveserver Ai
+Unprecedented capacity. Density. Power efficiency.
+Drive down cost per bit and reduce energy consumption with Ciena’s high-performance WaveLogicTM coherent technology, built into the Waveserver family. Ensure all network links are running efficiently with highly tunable coherent optics, supporting single wavelength line rates as high as 1.6 Tb/s.
+Easy operation. Simplified integration.
+Tackle automation and integration challenges easily using the Waveserver family’s industry-standard open APIs and modern data models to enable streaming telemetry, declarative configuration, and platform programmability.
+Maximum performance. Any distance.
+Remove scalability constraints with high performance that delivers more capacity for any distance application, including single-span DCI, metro ROADM networks, long-haul routes, and subsea links.
+Waveserver 5
+Waveserver 5 compact interconnect platform is optimized for 100GbE and 400GbE applications and provides unmatched scaling capabilities with up to 12.8 Tb/s client and 12.8 Tb/s line capacity in a compact 2RU footprint.
+Waveserver Ai
+With capacity up to 2.4 Tb/s in a single rack unit, combined with a simple-to-deploy operational model, Waveserver Ai delivers the programmability, scalability, and simplicity needed for global interconnect applications.
+Features
+Provides massive scalability and high performance with Ciena’s innovative WaveLogic coherent technology
+Enables unique, industry-leading per-wavelength capacities, as high as 1.6 Tb/s
+Increases total fiber capacity with increased spectral efficiency and support for C- and L-band
+Offers ultra-low power per bit to reduce ongoing energy costs
+Provides a suite of management interfaces and open APIs for automation, provisioning, management programmability, and ease of back-office integration
+Zero-Touch Provisioning (ZTP) simplifies on-site commissioning and service provisioning to get traffic up and running quickly
+Specs
++ Waveserver 5Waveserver 5 ModulesDual modem (2 x 800 Gb/s) C-band or L-band double-width module: Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE for up to 1.6 Tb of client capacity ; supports client OPS protectionProvides two coherent ports for up to 1.6 Tb/s of line capacityDual modem (2 x 800 Gb/s) C-band doublewidth module with encryption:* Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports for up to 1.6 Tb of cleartext client capacity* Provides two coherent ports for up to 1.6 Tb of encrypted line capacityOffers AES-256-GCM wire-speed encryptionDual modem (2 x 800 Gb/s) C-band doublewidth module: Provides twelve QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE and 400ZR as a client for up to 1.6 Tb of client capacityProvides two coherent ports for up to 1.6 Tb of line capacityThree port 400G QSFP-DD DCO double-width module: Provides three QSFP-DD coherent pluggable ports for up to 1.2 Tb of line capacityProvides twelve QSFP28 and three QSFP-DD client ports supporting up to 1.2 Tb of client capacityTwo port 400G CFP2-DCO double-width module: Provides two CFP2-DCO coherent pluggable ports for up to 800 Gb of line capacityProvides eight QSFP28 ports supporting 100GbE/OTU4 and two QSFP-DD ports supporting 400GbE for up to 800 Gb of client capacityOptical Protection Switching (OPS) doublewidth carrier module: Supports up to three OPS submodulesEach submodule provides OPS for two interfacesFully filled the OPS module supports protection switching for six interfacesPhysical dimensions88 mm (H) x 444 mm (W) x 594 mm (D)3.47 in (H) x 17.48 in (W) x 23.39 in (D)WeightCommon equipment: 16.4 Kg; 36.2 lbFull-fill with double-width module: 26 Kg; 57.3 lbShelf capacityEight slots, supporting a mix of up to eight single-width or four double-width modulesClient capacity: Up to 64 x QSFP28 with 100GbE/OTU4 clients or up to 16 x QSFP-DD with 400GbE clientsLine ports support the following rates: 200 Gb/s to 800 Gb/sMaximum capacity per fiber: 38.4 Tb/s (C-band DCI)33.6 Tb/s (C-band Flexible grid ROADM-based networks)67.2 Tb (C&L-band Flexible grid ROADM-based networks)Common equipmentRedundant/field-replaceable power supplyField-replaceable fan unitPower options: AC or DC power AC PSU input power range: 2KW: input 90Vac to 180Vac3KW: input 180Vac to 305Vac3KW: input 180Vdc to 300VdcDC PSU: 2.3KW: input -40Vdc to -72VdcPower consumption (excluding client plugs): 2KW with four double-width modulesManagementCLI, SNMP v2c, SNMPv3, SSH, HTTPS, TLSAPI: Websocket, RESTCONF, NETCONF, gRPC based on OpenConfig YANG models, Streaming Telemetry and Declarative ConfigurationCiena’s Manage, Control and Plan (MCP)Node Essentials web-based nodal UIZero-Touch Provisioning (ZTP), 100GbE/400GbE Integrated Test Set, LLDP client topology discovery, remote managementSecurityTACACS+, RADIUS, RADSecAES-256-GCM wire-speed encryption, Preshared key authentication, fast key rotationDesigned to FIPS 140-3 Level 2 specifications, undergoing FIPS and CC validationEnvironmental characteristicsNormal operating temperature: -5°C to +45°C; 23°F to 113°FOperating humidity: 93% maximum
++
+Waveserver 5 ModulesDual modem (2 x 800 Gb/s) C-band or L-band double-width module: Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE for up to 1.6 Tb of client capacity ; supports client OPS protectionProvides two coherent ports for up to 1.6 Tb/s of line capacityDual modem (2 x 800 Gb/s) C-band doublewidth module with encryption:* Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports for up to 1.6 Tb of cleartext client capacity* Provides two coherent ports for up to 1.6 Tb of encrypted line capacityOffers AES-256-GCM wire-speed encryptionDual modem (2 x 800 Gb/s) C-band doublewidth module: Provides twelve QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE and 400ZR as a client for up to 1.6 Tb of client capacityProvides two coherent ports for up to 1.6 Tb of line capacityThree port 400G QSFP-DD DCO double-width module: Provides three QSFP-DD coherent pluggable ports for up to 1.2 Tb of line capacityProvides twelve QSFP28 and three QSFP-DD client ports supporting up to 1.2 Tb of client capacityTwo port 400G CFP2-DCO double-width module: Provides two CFP2-DCO coherent pluggable ports for up to 800 Gb of line capacityProvides eight QSFP28 ports supporting 100GbE/OTU4 and two QSFP-DD ports supporting 400GbE for up to 800 Gb of client capacityOptical Protection Switching (OPS) doublewidth carrier module: Supports up to three OPS submodulesEach submodule provides OPS for two interfacesFully filled the OPS module supports protection switching for six interfacesPhysical dimensions88 mm (H) x 444 mm (W) x 594 mm (D)3.47 in (H) x 17.48 in (W) x 23.39 in (D)WeightCommon equipment: 16.4 Kg; 36.2 lbFull-fill with double-width module: 26 Kg; 57.3 lbShelf capacityEight slots, supporting a mix of up to eight single-width or four double-width modulesClient capacity: Up to 64 x QSFP28 with 100GbE/OTU4 clients or up to 16 x QSFP-DD with 400GbE clientsLine ports support the following rates: 200 Gb/s to 800 Gb/sMaximum capacity per fiber: 38.4 Tb/s (C-band DCI)33.6 Tb/s (C-band Flexible grid ROADM-based networks)67.2 Tb (C&L-band Flexible grid ROADM-based networks)Common equipmentRedundant/field-replaceable power supplyField-replaceable fan unitPower options: AC or DC power AC PSU input power range: 2KW: input 90Vac to 180Vac3KW: input 180Vac to 305Vac3KW: input 180Vdc to 300VdcDC PSU: 2.3KW: input -40Vdc to -72VdcPower consumption (excluding client plugs): 2KW with four double-width modulesManagementCLI, SNMP v2c, SNMPv3, SSH, HTTPS, TLSAPI: Websocket, RESTCONF, NETCONF, gRPC based on OpenConfig YANG models, Streaming Telemetry and Declarative ConfigurationCiena’s Manage, Control and Plan (MCP)Node Essentials web-based nodal UIZero-Touch Provisioning (ZTP), 100GbE/400GbE Integrated Test Set, LLDP client topology discovery, remote managementSecurityTACACS+, RADIUS, RADSecAES-256-GCM wire-speed encryption, Preshared key authentication, fast key rotationDesigned to FIPS 140-3 Level 2 specifications, undergoing FIPS and CC validationEnvironmental characteristicsNormal operating temperature: -5°C to +45°C; 23°F to 113°FOperating humidity: 93% maximum
+Waveserver 5 Modules
+Dual modem (2 x 800 Gb/s) C-band or L-band double-width module: Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE for up to 1.6 Tb of client capacity ; supports client OPS protectionProvides two coherent ports for up to 1.6 Tb/s of line capacity
+Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE for up to 1.6 Tb of client capacity ; supports client OPS protection
+Provides two coherent ports for up to 1.6 Tb/s of line capacity
+Dual modem (2 x 800 Gb/s) C-band doublewidth module with encryption:* Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports for up to 1.6 Tb of cleartext client capacity* Provides two coherent ports for up to 1.6 Tb of encrypted line capacityOffers AES-256-GCM wire-speed encryption
+* Provides sixteen QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports for up to 1.6 Tb of cleartext client capacity
+* Provides two coherent ports for up to 1.6 Tb of encrypted line capacity
+Offers AES-256-GCM wire-speed encryption
+Dual modem (2 x 800 Gb/s) C-band doublewidth module: Provides twelve QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE and 400ZR as a client for up to 1.6 Tb of client capacityProvides two coherent ports for up to 1.6 Tb of line capacity
+Provides twelve QSFP28 ports supporting 100GbE/OTU4 and four QSFP-DD ports supporting 400GbE and 400ZR as a client for up to 1.6 Tb of client capacity
+Provides two coherent ports for up to 1.6 Tb of line capacity
+Three port 400G QSFP-DD DCO double-width module: Provides three QSFP-DD coherent pluggable ports for up to 1.2 Tb of line capacityProvides twelve QSFP28 and three QSFP-DD client ports supporting up to 1.2 Tb of client capacity
+Provides three QSFP-DD coherent pluggable ports for up to 1.2 Tb of line capacity
+Provides twelve QSFP28 and three QSFP-DD client ports supporting up to 1.2 Tb of client capacity
+Two port 400G CFP2-DCO double-width module: Provides two CFP2-DCO coherent pluggable ports for up to 800 Gb of line capacityProvides eight QSFP28 ports supporting 100GbE/OTU4 and two QSFP-DD ports supporting 400GbE for up to 800 Gb of client capacity
+Provides two CFP2-DCO coherent pluggable ports for up to 800 Gb of line capacity
+Provides eight QSFP28 ports supporting 100GbE/OTU4 and two QSFP-DD ports supporting 400GbE for up to 800 Gb of client capacity
+Optical Protection Switching (OPS) doublewidth carrier module: Supports up to three OPS submodulesEach submodule provides OPS for two interfacesFully filled the OPS module supports protection switching for six interfaces
+Supports up to three OPS submodules
+Each submodule provides OPS for two interfaces
+Fully filled the OPS module supports protection switching for six interfaces
+Physical dimensions
+88 mm (H) x 444 mm (W) x 594 mm (D)
+3.47 in (H) x 17.48 in (W) x 23.39 in (D)
+Weight
+Common equipment: 16.4 Kg; 36.2 lb
+Full-fill with double-width module: 26 Kg; 57.3 lb
+Shelf capacity
+Eight slots, supporting a mix of up to eight single-width or four double-width modules
+Client capacity: Up to 64 x QSFP28 with 100GbE/OTU4 clients or up to 16 x QSFP-DD with 400GbE clients
+Line ports support the following rates: 200 Gb/s to 800 Gb/s
+Maximum capacity per fiber: 38.4 Tb/s (C-band DCI)33.6 Tb/s (C-band Flexible grid ROADM-based networks)67.2 Tb (C&L-band Flexible grid ROADM-based networks)
+38.4 Tb/s (C-band DCI)
+33.6 Tb/s (C-band Flexible grid ROADM-based networks)
+67.2 Tb (C&L-band Flexible grid ROADM-based networks)
+Common equipment
+Redundant/field-replaceable power supply
+Field-replaceable fan unit
+Power options: AC or DC power AC PSU input power range: 2KW: input 90Vac to 180Vac3KW: input 180Vac to 305Vac3KW: input 180Vdc to 300VdcDC PSU: 2.3KW: input -40Vdc to -72Vdc
+AC PSU input power range: 2KW: input 90Vac to 180Vac3KW: input 180Vac to 305Vac3KW: input 180Vdc to 300Vdc
+2KW: input 90Vac to 180Vac
+3KW: input 180Vac to 305Vac
+3KW: input 180Vdc to 300Vdc
+DC PSU: 2.3KW: input -40Vdc to -72Vdc
+2.3KW: input -40Vdc to -72Vdc
+Power consumption (excluding client plugs): 2KW with four double-width modules
+Management
+CLI, SNMP v2c, SNMPv3, SSH, HTTPS, TLS
+API: Websocket, RESTCONF, NETCONF, gRPC based on OpenConfig YANG models, Streaming Telemetry and Declarative Configuration
+Ciena’s Manage, Control and Plan (MCP)
+Node Essentials web-based nodal UI
+Zero-Touch Provisioning (ZTP), 100GbE/400GbE Integrated Test Set, LLDP client topology discovery, remote management
+Security
+TACACS+, RADIUS, RADSec
+AES-256-GCM wire-speed encryption, Preshared key authentication, fast key rotation
+Designed to FIPS 140-3 Level 2 specifications, undergoing FIPS and CC validation
+Environmental characteristics
+Normal operating temperature: -5°C to +45°C; 23°F to 113°F
+Operating humidity: 93% maximum
++ Waveserver AiWaveserver Ai modulesDual modem (2 x 400 Gb/s) C-band or L-band module:Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacityProvides two coherent ports for up to 800 Gb/s of line capacitySingle modem (1 x 400 Gb/s) C-band module:Provides four QSFP28 ports supporting 100GE, OTL4.4 for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of line capacityOptimized cost for lower traffic applications400G Encryption (1 x 400 Gb/s) C-band module:Provides four QSFP28 ports supporting 100GE for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of encrypted line capacityProvides full throughput, Layer 1 encryption for all in-flight data40x10G Single modem (1 x 400 Gb/s) C-band module:Provides ten QSFP+ ports supporting 4x10GE and 4 QSFP28 ports supporting 100GbE for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of line capacitySupports mix of 10 and 100 Gb/s clientsSingle modem (1 x 800 Gb/s) C-band module: Provides eight QSFP28 ports supporting 100GbE and OTL4.4; two client ports also support QSFP-DD for 4 x 100GbE and 400 GbE clients with a total client capacity of up to 800 Gb/sProvides one coherent port for up to 800 Gb/s of line capacityDual modem (2 x 400 Gb/s) C-band module with Integrated OPS:Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacityProvides two coherent ports for up to 800 Gb/s of line capacity with integrated OPS enabling per wavelength optical protectionCMD4 module:Four channel passive mux/demux moduleEnables add/drop up to 1.6 Tb/s for point-topoint applicationsCMD10 module:Ten port mux/demux module with integrated EDFA, bi-directional OSC, and OTDREnables add/drop up to 4 Tb/s for point-topoint applicationsPhysical dimensions1U 44.45 mm (H) x 444 mm (W) x 584 mm (D)1U 1.75 in. (H) x 17.48 in. (W) x 22.99 in. (D)Weight9.52 Kg, 21.0 lbs (without modules)14.92 Kg, 32.88 lbs (with 3 modules, no plugs)CapacitySupports three pluggable Waveserver modules Client: Up to 24 x QSFP28 supporting 100GbE or OTL4.4 (OTU4) clientsUp to 30 x QSFP+ supporting 4 x 10GbE clientsUp to 6 x QSFP-DD supporting 4 x 100GbE or 400GbE clientsLine ports support the following rates: 100 to 400 Gb/s at 56Gbaud100 to 250 Gb/s at 35Gbaud200 to 800 Gb/s at 95Gbaud300 to 800 Gb/s at 91.6GbaudMaximum capacity per fiber:38.4 Tb/s C-band DCI33.6 Tb/s C-band flexible grid ROADM-based networksIntegrated OPS functionalityCommon equipmentRedundant/field-replaceable power supplyField-replaceable fan unitPower options: AC or DC powerAC input voltage range: 100 Vac to 264 VacDC input voltage range: -40 Vdc to -72 VdcPower consumption: 0.4 W/GbManagementCLI, SNMP v2c, SNMPv3, Blue Planet MCP, SSH, HTTPS, TLSAPI: Websocket, RESTCONF, NETCONF, gRPC based on OpenConfig YANG models, Streaming Telemetry and Declarative ConfigurationSubmarine communications channelZero-Touch Provisioning (ZTP)Remote managementSecurityAES-256-GCM wire-speed encryption, PSK or X.509 certificates, FIPS 140-2 Level 2 and Common Criteria certified, Secure memory wipe, Secure boot, RADIUS, TACACS+Environmental characteristicsNormal operating temperature: 0 °C to +40 °C (32 °F to 104 °F)Normal operating humidity: Between 5% and 85%
++
+Waveserver Ai modulesDual modem (2 x 400 Gb/s) C-band or L-band module:Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacityProvides two coherent ports for up to 800 Gb/s of line capacitySingle modem (1 x 400 Gb/s) C-band module:Provides four QSFP28 ports supporting 100GE, OTL4.4 for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of line capacityOptimized cost for lower traffic applications400G Encryption (1 x 400 Gb/s) C-band module:Provides four QSFP28 ports supporting 100GE for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of encrypted line capacityProvides full throughput, Layer 1 encryption for all in-flight data40x10G Single modem (1 x 400 Gb/s) C-band module:Provides ten QSFP+ ports supporting 4x10GE and 4 QSFP28 ports supporting 100GbE for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of line capacitySupports mix of 10 and 100 Gb/s clientsSingle modem (1 x 800 Gb/s) C-band module: Provides eight QSFP28 ports supporting 100GbE and OTL4.4; two client ports also support QSFP-DD for 4 x 100GbE and 400 GbE clients with a total client capacity of up to 800 Gb/sProvides one coherent port for up to 800 Gb/s of line capacityDual modem (2 x 400 Gb/s) C-band module with Integrated OPS:Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacityProvides two coherent ports for up to 800 Gb/s of line capacity with integrated OPS enabling per wavelength optical protectionCMD4 module:Four channel passive mux/demux moduleEnables add/drop up to 1.6 Tb/s for point-topoint applicationsCMD10 module:Ten port mux/demux module with integrated EDFA, bi-directional OSC, and OTDREnables add/drop up to 4 Tb/s for point-topoint applicationsPhysical dimensions1U 44.45 mm (H) x 444 mm (W) x 584 mm (D)1U 1.75 in. (H) x 17.48 in. (W) x 22.99 in. (D)Weight9.52 Kg, 21.0 lbs (without modules)14.92 Kg, 32.88 lbs (with 3 modules, no plugs)CapacitySupports three pluggable Waveserver modules Client: Up to 24 x QSFP28 supporting 100GbE or OTL4.4 (OTU4) clientsUp to 30 x QSFP+ supporting 4 x 10GbE clientsUp to 6 x QSFP-DD supporting 4 x 100GbE or 400GbE clientsLine ports support the following rates: 100 to 400 Gb/s at 56Gbaud100 to 250 Gb/s at 35Gbaud200 to 800 Gb/s at 95Gbaud300 to 800 Gb/s at 91.6GbaudMaximum capacity per fiber:38.4 Tb/s C-band DCI33.6 Tb/s C-band flexible grid ROADM-based networksIntegrated OPS functionalityCommon equipmentRedundant/field-replaceable power supplyField-replaceable fan unitPower options: AC or DC powerAC input voltage range: 100 Vac to 264 VacDC input voltage range: -40 Vdc to -72 VdcPower consumption: 0.4 W/GbManagementCLI, SNMP v2c, SNMPv3, Blue Planet MCP, SSH, HTTPS, TLSAPI: Websocket, RESTCONF, NETCONF, gRPC based on OpenConfig YANG models, Streaming Telemetry and Declarative ConfigurationSubmarine communications channelZero-Touch Provisioning (ZTP)Remote managementSecurityAES-256-GCM wire-speed encryption, PSK or X.509 certificates, FIPS 140-2 Level 2 and Common Criteria certified, Secure memory wipe, Secure boot, RADIUS, TACACS+Environmental characteristicsNormal operating temperature: 0 °C to +40 °C (32 °F to 104 °F)Normal operating humidity: Between 5% and 85%
+Waveserver Ai modules
+Dual modem (2 x 400 Gb/s) C-band or L-band module:Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacityProvides two coherent ports for up to 800 Gb/s of line capacity
+Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacity
+Provides two coherent ports for up to 800 Gb/s of line capacity
+Single modem (1 x 400 Gb/s) C-band module:Provides four QSFP28 ports supporting 100GE, OTL4.4 for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of line capacityOptimized cost for lower traffic applications
+Provides four QSFP28 ports supporting 100GE, OTL4.4 for up to 400 Gb/s of client capacity
+Provides one coherent port for up to 400 Gb/s of line capacity
+Optimized cost for lower traffic applications
+400G Encryption (1 x 400 Gb/s) C-band module:Provides four QSFP28 ports supporting 100GE for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of encrypted line capacityProvides full throughput, Layer 1 encryption for all in-flight data
+Provides four QSFP28 ports supporting 100GE for up to 400 Gb/s of client capacity
+Provides one coherent port for up to 400 Gb/s of encrypted line capacity
+Provides full throughput, Layer 1 encryption for all in-flight data
+40x10G Single modem (1 x 400 Gb/s) C-band module:Provides ten QSFP+ ports supporting 4x10GE and 4 QSFP28 ports supporting 100GbE for up to 400 Gb/s of client capacityProvides one coherent port for up to 400 Gb/s of line capacitySupports mix of 10 and 100 Gb/s clients
+Provides ten QSFP+ ports supporting 4x10GE and 4 QSFP28 ports supporting 100GbE for up to 400 Gb/s of client capacity
+Provides one coherent port for up to 400 Gb/s of line capacity
+Supports mix of 10 and 100 Gb/s clients
+Single modem (1 x 800 Gb/s) C-band module: Provides eight QSFP28 ports supporting 100GbE and OTL4.4; two client ports also support QSFP-DD for 4 x 100GbE and 400 GbE clients with a total client capacity of up to 800 Gb/sProvides one coherent port for up to 800 Gb/s of line capacity
+Provides eight QSFP28 ports supporting 100GbE and OTL4.4; two client ports also support QSFP-DD for 4 x 100GbE and 400 GbE clients with a total client capacity of up to 800 Gb/s
+Provides one coherent port for up to 800 Gb/s of line capacity
+Dual modem (2 x 400 Gb/s) C-band module with Integrated OPS:Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacityProvides two coherent ports for up to 800 Gb/s of line capacity with integrated OPS enabling per wavelength optical protection
+Provides eight QSFP28 ports supporting 100GE, OTL4.4 for up to 800 Gb/s of client capacity
+Provides two coherent ports for up to 800 Gb/s of line capacity with integrated OPS enabling per wavelength optical protection
+CMD4 module:Four channel passive mux/demux moduleEnables add/drop up to 1.6 Tb/s for point-topoint applications
+Four channel passive mux/demux module
+Enables add/drop up to 1.6 Tb/s for point-topoint applications
+CMD10 module:Ten port mux/demux module with integrated EDFA, bi-directional OSC, and OTDREnables add/drop up to 4 Tb/s for point-topoint applications
+Ten port mux/demux module with integrated EDFA, bi-directional OSC, and OTDR
+Enables add/drop up to 4 Tb/s for point-topoint applications
+Physical dimensions
+1U 44.45 mm (H) x 444 mm (W) x 584 mm (D)
+1U 1.75 in. (H) x 17.48 in. (W) x 22.99 in. (D)
+Weight
+9.52 Kg, 21.0 lbs (without modules)
+14.92 Kg, 32.88 lbs (with 3 modules, no plugs)
+Capacity
+Supports three pluggable Waveserver modules Client: Up to 24 x QSFP28 supporting 100GbE or OTL4.4 (OTU4) clientsUp to 30 x QSFP+ supporting 4 x 10GbE clientsUp to 6 x QSFP-DD supporting 4 x 100GbE or 400GbE clientsLine ports support the following rates: 100 to 400 Gb/s at 56Gbaud100 to 250 Gb/s at 35Gbaud200 to 800 Gb/s at 95Gbaud300 to 800 Gb/s at 91.6GbaudMaximum capacity per fiber:38.4 Tb/s C-band DCI33.6 Tb/s C-band flexible grid ROADM-based networksIntegrated OPS functionality
+Client: Up to 24 x QSFP28 supporting 100GbE or OTL4.4 (OTU4) clientsUp to 30 x QSFP+ supporting 4 x 10GbE clientsUp to 6 x QSFP-DD supporting 4 x 100GbE or 400GbE clients
+Up to 24 x QSFP28 supporting 100GbE or OTL4.4 (OTU4) clients
+Up to 30 x QSFP+ supporting 4 x 10GbE clients
+Up to 6 x QSFP-DD supporting 4 x 100GbE or 400GbE clients
+Line ports support the following rates: 100 to 400 Gb/s at 56Gbaud100 to 250 Gb/s at 35Gbaud200 to 800 Gb/s at 95Gbaud300 to 800 Gb/s at 91.6Gbaud
+100 to 400 Gb/s at 56Gbaud
+100 to 250 Gb/s at 35Gbaud
+200 to 800 Gb/s at 95Gbaud
+300 to 800 Gb/s at 91.6Gbaud
+Maximum capacity per fiber:38.4 Tb/s C-band DCI33.6 Tb/s C-band flexible grid ROADM-based networks
+38.4 Tb/s C-band DCI
+33.6 Tb/s C-band flexible grid ROADM-based networks
+Integrated OPS functionality
+Common equipment
+Redundant/field-replaceable power supply
+Field-replaceable fan unit
+Power options: AC or DC power
+AC input voltage range: 100 Vac to 264 Vac
+DC input voltage range: -40 Vdc to -72 Vdc
+Power consumption: 0.4 W/Gb
+Management
+CLI, SNMP v2c, SNMPv3, Blue Planet MCP, SSH, HTTPS, TLS
+API: Websocket, RESTCONF, NETCONF, gRPC based on OpenConfig YANG models, Streaming Telemetry and Declarative Configuration
+Submarine communications channel
+Zero-Touch Provisioning (ZTP)
+Remote management
+Security
+AES-256-GCM wire-speed encryption, PSK or X.509 certificates, FIPS 140-2 Level 2 and Common Criteria certified, Secure memory wipe, Secure boot, RADIUS, TACACS+
+Environmental characteristics
+Normal operating temperature: 0 °C to +40 °C (32 °F to 104 °F)
+Normal operating humidity: Between 5% and 85%
+Data Center Interconnect
+To learn more about DCI and its challenges, applications, and technology, download the Data Center Interconnect Essentials eBook.
+Related insights and resources
+Videos
+Learn how the Waveserver platform provides scalability and choice in optics with support for 400G coherent pluggable optics and high performance optics, scaling to 1.6T per wavelength in the future.
+Videos
+Ciena’s Waveserver 5 platform powered by proven 800 Gb/s encryption, leverages open APIs to communicate with an external QKD system.
+Videos
+In this video, we showcase two traffic modules supporting low-power 400ZR for single-span interconnect and 400ZR as a client on-ramp to a long-haul network.
+Podcasts
+In this podcast Ciena and Heavy Reading discuss trends and drivers for change, as well as the latest innovations emerging in networking.
+White Papers
+Ciena’s solutions, rooted in the company’s industry leadership in DCI applications, enable data center and network operators to accelerate deployments, reduce...
+Videos
+Ciena's Patrick Scully gives an example of how easy it is to tap into and decode a video signal sent across a fiber-optic line.
+Articles
+Learn about five of the biggest DCI challenges and how to reduce or eliminate each.
+Application Notes
+Read this application note to find out more about WaveLogic Encryption, Ciena’s cost-effective, high-capacity, protocol-agnostic, ultra-low-latency encryption..
+Related products and services
+WaveLogic 6
+WaveLogic Coherent Optics
+6500 Reconfigurable Line System
+6500 Family
+WaveLogic Encryption: 100G/200G Optical Encryption Solution
+Manage, Control and Plan (MCP) Applications
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Support by Phone
+Support by Phone
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+#CienaLife: A place where you can belong
+#CienaLife: A place where you can belong
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

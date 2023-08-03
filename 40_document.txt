@@ -1,0 +1,673 @@
+URL: https://www.ciena.com/products/6500-packet-transport-system
+
+Products and services
+Network insights
+Sales and support
+About us
+Ask the community
+All Products
+Technical documentation
+Share
+6500 Packet Transport System
+Ciena’s 6500 Packet Transport System (PTS) addresses the growing need to maintain profitable delivery of TDM services while future-proofing investments toward an all-packet network modernization.
+To this day, network providers continue to add to their Time Division Multiplexing (TDM) infrastructure—an investment that is getting more expensive to run and operate. Clearly doing more of the same only increases OPEX due to expensive spares and higher maintenance, hard-to-find legacy skill sets, and manual operations.
+Features
+Exceptional DS1, DS3, E1, E3, OC-3/12/48/192, STM-1/4/16/64, and 10/100/1GbE/10GbE, 40GbE/100GbE density to address space constraints
+Preserves TDM service, no change to customer end or revenue, customer experience, and tariffs
+Launches new Packet and CE services, including MEF CE 3.0-certified for E-Tree, E-Line, E-LAN, E-Access, and E-Transit
+Features hardware-assisted packet OAM capabilities for guaranteed SLA differentiation
+Offers Zero-Touch Provisioning (ZTP) for rapid, secure, and errorfree turn-up of packet services
+Includes advanced packet synchronization and multi-layer protocol support
+Integrates line-rate Service Activation Testing capabilities
+Includes Ciena’s MCP multi-layer provisioning support for end-to-end network management control and planning
+Offers flexible low-power configuration options with redundant power supply (DC) and fan modules
+6500 PTS Visio stencil
+Specs
++Physical Specifications Description6500-S86500-S14H x W x D (mm)7U 310 x 440.5 x 28113U 577.1 x 440.5 x 280H x W x D (mm)7U 12.2 x 17.3 x 11.113U 22.7 x 17.3 x 11.0Chassis Per Rack63Weight (Max)33kg56kgDC Input1x 50A2x 50APower Consumption (Watts@ 25deg C/- 48vDC, no optics)1333W (Typical)1960w (Typical)Operating Temp.Normal: 41deg F to 104deg F (5deg C to 40deg C)Storage Temp.-40deg F to 158deg F (-40deg C to 70deg C)Relative Humidity5% to 85% RH (normal operating humidity)
+Air FlowFront to back, front to front, and right to leftFront to front, and front to back
++
+Description6500-S86500-S14H x W x D (mm)7U 310 x 440.5 x 28113U 577.1 x 440.5 x 280H x W x D (mm)7U 12.2 x 17.3 x 11.113U 22.7 x 17.3 x 11.0Chassis Per Rack63Weight (Max)33kg56kgDC Input1x 50A2x 50APower Consumption (Watts@ 25deg C/- 48vDC, no optics)1333W (Typical)1960w (Typical)Operating Temp.Normal: 41deg F to 104deg F (5deg C to 40deg C)Storage Temp.-40deg F to 158deg F (-40deg C to 70deg C)Relative Humidity5% to 85% RH (normal operating humidity)
+Air FlowFront to back, front to front, and right to leftFront to front, and front to back
++Tributary Service Interfaces PDH Modules: PTS PDH I/F 2xDIM: 168xDS1/E1 ports or 48xDS3/E3/EC1 CEMPTS PDH I/F 10X DIM 1:N PROTECTION: up to 1:5 PDH protection84xDS1/E1 DIM24xDS3/E3/EC1 DIMunprotected, 1:1 protection or 1:5 protectionMRO Module: PTS MRO I/F 2xSFP+/14xSFP: 16x SFP (16xOC-3/12/STM-1/4, 8xOC-48/STM-16, 2x OC192/STM-64, or 16x100FX/GbE (10/100/1000BaseT), or 2x10GbE portsEthernet Modules: PTS ETH I/F 40G 16 PORT (4X SFP+/16X CSFP) CIRCUIT PACK 4xSFP+ (4x10GE)16xSFP (16x 10/100BaseT/ 100FX/ GE)16xCSFP (32 GE ports)PTS ETH I/F 100G 12 Port (2x QSFP28/10xSFP+) Circuit Pack 1xQSFP+ (1x40GE, 4x10GE)1xQSFP+/QSFP28 (1x100GE, 1x40GE, 4x10GE)10xSFP+ (10x10GE)DWDM Module: OTR WL3n Enh: 1xQSFP28Any module; any slot
++
+PDH Modules: PTS PDH I/F 2xDIM: 168xDS1/E1 ports or 48xDS3/E3/EC1 CEMPTS PDH I/F 10X DIM 1:N PROTECTION: up to 1:5 PDH protection84xDS1/E1 DIM24xDS3/E3/EC1 DIMunprotected, 1:1 protection or 1:5 protection
+PTS PDH I/F 2xDIM: 168xDS1/E1 ports or 48xDS3/E3/EC1 CEM
+PTS PDH I/F 10X DIM 1:N PROTECTION: up to 1:5 PDH protection
+84xDS1/E1 DIM
+24xDS3/E3/EC1 DIM
+unprotected, 1:1 protection or 1:5 protection
+MRO Module: PTS MRO I/F 2xSFP+/14xSFP: 16x SFP (16xOC-3/12/STM-1/4, 8xOC-48/STM-16, 2x OC192/STM-64, or 16x100FX/GbE (10/100/1000BaseT), or 2x10GbE ports
+PTS MRO I/F 2xSFP+/14xSFP: 16x SFP (16xOC-3/12/STM-1/4, 8xOC-48/STM-16, 2x OC192/STM-64, or 16x100FX/GbE (10/100/1000BaseT), or 2x10GbE ports
+Ethernet Modules: PTS ETH I/F 40G 16 PORT (4X SFP+/16X CSFP) CIRCUIT PACK 4xSFP+ (4x10GE)16xSFP (16x 10/100BaseT/ 100FX/ GE)16xCSFP (32 GE ports)PTS ETH I/F 100G 12 Port (2x QSFP28/10xSFP+) Circuit Pack 1xQSFP+ (1x40GE, 4x10GE)1xQSFP+/QSFP28 (1x100GE, 1x40GE, 4x10GE)10xSFP+ (10x10GE)
+PTS ETH I/F 40G 16 PORT (4X SFP+/16X CSFP) CIRCUIT PACK 4xSFP+ (4x10GE)16xSFP (16x 10/100BaseT/ 100FX/ GE)16xCSFP (32 GE ports)
+4xSFP+ (4x10GE)
+16xSFP (16x 10/100BaseT/ 100FX/ GE)
+16xCSFP (32 GE ports)
+PTS ETH I/F 100G 12 Port (2x QSFP28/10xSFP+) Circuit Pack 1xQSFP+ (1x40GE, 4x10GE)1xQSFP+/QSFP28 (1x100GE, 1x40GE, 4x10GE)10xSFP+ (10x10GE)
+1xQSFP+ (1x40GE, 4x10GE)
+1xQSFP+/QSFP28 (1x100GE, 1x40GE, 4x10GE)
+10xSFP+ (10x10GE)
+DWDM Module: OTR WL3n Enh: 1xQSFP28Any module; any slot
+OTR WL3n Enh: 1xQSFP28
+Any module; any slot
++Control Timing & Fabric Switch Modules Shelf Processor Shelf Processor SP2: local craft access, security, event history, alarms, and controlsFabric switch X-CONN 800G PTS: 1x QSFP28/QSFP+, 2x SFP+
++
+Shelf Processor SP2: local craft access, security, event history, alarms, and controls
+SP2: local craft access, security, event history, alarms, and controls
+Fabric switch X-CONN 800G PTS: 1x QSFP28/QSFP+, 2x SFP+
+X-CONN 800G PTS: 1x QSFP28/QSFP+, 2x SFP+
++Ethernet Hierarchical Quality of Service (HQoS) including Ingress Metering/Egress shapingIEEE 802.1ad Provider Bridging (Q-in-Q) VLAN full S-VLAN rangeIEEE 802.1 D MAC BridgesIEEE 802.1p Class of Service (CoS) prioritization IEEE 802.1Q VLANsIEEE 802.1Q VLANsIEEE 802.3 EthernetIEEE 802.3ab 1000Base-T via Copper SFPIEEE 802.3ad Link Aggregation Control Protocol (LACP)IEEE 802.3ba-2010 40Gbe & 100GbEIEEE 802.3u Fast EthernetIEEE 802.3z Gigabit EthernetJumbo Frames to 9,600 bytesLayer 2 Control Frame TunnelingLink Aggregation (LAG): Active/Active; Active/ StandbyMEF 10.2 Egress Bandwidth Shaping per EVC per COSMulti Chassis-LAG (MC-LAG): Active/ActivePer-VLAN MAC Learning ControlPrivate Forwarding GroupsVLAN tunneling (Q-in-Q) for Transparent LAN Services (TLS)
++
+Hierarchical Quality of Service (HQoS) including Ingress Metering/Egress shaping
+IEEE 802.1ad Provider Bridging (Q-in-Q) VLAN full S-VLAN range
+IEEE 802.1 D MAC Bridges
+IEEE 802.1p Class of Service (CoS) prioritization IEEE 802.1Q VLANs
+IEEE 802.1Q VLANs
+IEEE 802.3 Ethernet
+IEEE 802.3ab 1000Base-T via Copper SFP
+IEEE 802.3ad Link Aggregation Control Protocol (LACP)
+IEEE 802.3ba-2010 40Gbe & 100GbE
+IEEE 802.3u Fast Ethernet
+IEEE 802.3z Gigabit Ethernet
+Jumbo Frames to 9,600 bytes
+Layer 2 Control Frame Tunneling
+Link Aggregation (LAG): Active/Active; Active/ Standby
+MEF 10.2 Egress Bandwidth Shaping per EVC per COS
+Multi Chassis-LAG (MC-LAG): Active/Active
+Per-VLAN MAC Learning Control
+Private Forwarding Groups
+VLAN tunneling (Q-in-Q) for Transparent LAN Services (TLS)
++MEF CE 3.0 Compliant E-Transit: Transit E-LINE, Transit E-LANE-Access: Access EPL, Access EVPLE-LAN: EP-LAN, EVP-LANE-LINE: EPL, EVPLE-Tree: EP-Tree, EVP-Tree
++
+E-Transit: Transit E-LINE, Transit E-LAN
+E-Access: Access EPL, Access EVPL
+E-LAN: EP-LAN, EVP-LAN
+E-LINE: EPL, EVPL
+E-Tree: EP-Tree, EVP-Tree
++Carrier Ethernet OAM EVC Ping (IPv4)IEEE 802.1ab Link Layer Discovery Protocol (LLDP)IEEE 802.1ag Connectivity Fault Management (CFM)IEEE 802.3ah EFM Link-fault OAMITU-T Y.1564 Ethernet Service Activation Test MethodologyITU-T Y.1731 Performance Monitoring (SLM; DM)RFC 2544 Benchmarking Methodology for Network Interconnect DevicesRFC 5618 TWAMP Responder and Receiver TWAMP Sender
++
+EVC Ping (IPv4)
+IEEE 802.1ab Link Layer Discovery Protocol (LLDP)
+IEEE 802.1ag Connectivity Fault Management (CFM)
+IEEE 802.3ah EFM Link-fault OAM
+ITU-T Y.1564 Ethernet Service Activation Test Methodology
+ITU-T Y.1731 Performance Monitoring (SLM; DM)
+RFC 2544 Benchmarking Methodology for Network Interconnect Devices
+RFC 5618 TWAMP Responder and Receiver TWAMP Sender
++Synchronization GR-1244ITU-T G.781ITU-T G.813ITU-T G.823/G.824ITU-T G.8262 Synchronous EthernetITU-T G.8262/G.8264 EEC option1 and option2ITU-T G.8261Stratum 3Line Timing Interfaces:1GbE/10GbE/40GbE/100GbE In and OutOC-n/STM-n In and OutExternal Timing Interfaces: BITS in or out (T1: 1.544Mb/s, E1: 2.048MHz and 2.048Mb/s, 64kHz CC (SDH-J)
++
+GR-1244
+ITU-T G.781
+ITU-T G.813
+ITU-T G.823/G.824
+ITU-T G.8262 Synchronous Ethernet
+ITU-T G.8262/G.8264 EEC option1 and option2
+ITU-T G.8261
+Stratum 3
+Line Timing Interfaces:1GbE/10GbE/40GbE/100GbE In and OutOC-n/STM-n In and Out
+1GbE/10GbE/40GbE/100GbE In and Out
+OC-n/STM-n In and Out
+External Timing Interfaces: BITS in or out (T1: 1.544Mb/s, E1: 2.048MHz and 2.048Mb/s, 64kHz CC (SDH-J)
+BITS in or out (T1: 1.544Mb/s, E1: 2.048MHz and 2.048Mb/s, 64kHz CC (SDH-J)
++Networking Protocols Alarm Indication Signaling (AIS) with Link Down Indication (LDI) and Remote Defect Indication (RDI)Automatic Pseudowire ReversionLayer 2 Control Frame Tunneling over MPLS Virtual CircuitsMPLS Label Switch Path (LSP) Tunnel GroupsMPLS Label Switch Path (LSP) Tunnel RedundancyMPLS Multi-Segment PseudowiresMPLS Virtual Private Wire Service (VPWS) OSPF/IS-IS for Dynamic MPLS-TP Control Plane RFC 2205 RSVPRFC 3031 MPLS architectureRFC 3209 RSVP-TE: Extensions to RSVP for LSPRFC 3630 OSPF-TERFC 4447 Pseudowire Setup & Maintenance using Label Distribution Protocol (LDP)RFC 4448 Encapsulation Methods for Transport of Ethernet over MPLS Networks (PW over MPLS)RFC 4664 Framework of L2VPN (VPLS/VPWS)RFC 4665 Service Requirement of L2 VPNRFC 4762 VPLS (Virtual Private LAN Service) and Hierarchical VPLS (H-VPLS)RFC 5654 MPLS-Transport Profile (TP) LSP Static provisioningLSP Dynamic provisioning - 1:1 Tunnel protectionRFC 5884 LSP Bidirectional Forwarding Detection (BFD) via GAL/G-Ach channelsRFC 6215 MPLS Transport Profile Userto-Network and Network-to-Network InterfacesRFC 6426 MPLS On-demand Connectivity Verification and Route TracingRFC 6428 LSP and PW Connectivity Verification and Trace RouteStatic ARP and MAC Destination Address ResolutionVCCV (Virtual Circuit Continuity Check) Ping and Trace RouteMulticastIGMP over MPLS-TPIGMPv3 with SSMCircuit Emulation: RFC 4553 Structure Agnostic TDM over PacketRFC 4842 SONET/SDH Circuit Emulation over PacketRFC 5086 Circuit Emulation Service over Packet Switched NetworkMEF 3 Circuit Emulation Service Definitions, Framework and Requirements in Metro Ethernet NetworksMEF 8 Implementation Agreement for the Emulation of PDH Circuits over Metro Ethernet Networks
++
+Alarm Indication Signaling (AIS) with Link Down Indication (LDI) and Remote Defect Indication (RDI)
+Automatic Pseudowire Reversion
+Layer 2 Control Frame Tunneling over MPLS Virtual Circuits
+MPLS Label Switch Path (LSP) Tunnel Groups
+MPLS Label Switch Path (LSP) Tunnel Redundancy
+MPLS Multi-Segment Pseudowires
+MPLS Virtual Private Wire Service (VPWS) OSPF/IS-IS for Dynamic MPLS-TP Control Plane RFC 2205 RSVP
+RFC 3031 MPLS architecture
+RFC 3209 RSVP-TE: Extensions to RSVP for LSP
+RFC 3630 OSPF-TE
+RFC 4447 Pseudowire Setup & Maintenance using Label Distribution Protocol (LDP)
+RFC 4448 Encapsulation Methods for Transport of Ethernet over MPLS Networks (PW over MPLS)
+RFC 4664 Framework of L2VPN (VPLS/VPWS)
+RFC 4665 Service Requirement of L2 VPN
+RFC 4762 VPLS (Virtual Private LAN Service) and Hierarchical VPLS (H-VPLS)
+RFC 5654 MPLS-Transport Profile (TP) LSP Static provisioningLSP Dynamic provisioning - 1:1 Tunnel protection
+LSP Static provisioning
+LSP Dynamic provisioning - 1:1 Tunnel protection
+RFC 5884 LSP Bidirectional Forwarding Detection (BFD) via GAL/G-Ach channels
+RFC 6215 MPLS Transport Profile Userto-Network and Network-to-Network Interfaces
+RFC 6426 MPLS On-demand Connectivity Verification and Route Tracing
+RFC 6428 LSP and PW Connectivity Verification and Trace Route
+Static ARP and MAC Destination Address Resolution
+VCCV (Virtual Circuit Continuity Check) Ping and Trace Route
+Multicast
+IGMP over MPLS-TP
+IGMPv3 with SSM
+Circuit Emulation: RFC 4553 Structure Agnostic TDM over PacketRFC 4842 SONET/SDH Circuit Emulation over PacketRFC 5086 Circuit Emulation Service over Packet Switched NetworkMEF 3 Circuit Emulation Service Definitions, Framework and Requirements in Metro Ethernet NetworksMEF 8 Implementation Agreement for the Emulation of PDH Circuits over Metro Ethernet Networks
+RFC 4553 Structure Agnostic TDM over Packet
+RFC 4842 SONET/SDH Circuit Emulation over Packet
+RFC 5086 Circuit Emulation Service over Packet Switched Network
+MEF 3 Circuit Emulation Service Definitions, Framework and Requirements in Metro Ethernet Networks
+MEF 8 Implementation Agreement for the Emulation of PDH Circuits over Metro Ethernet Networks
++ Network Management Alarm Management & Monitoring ConfigurationComprehensive Management via OneControl Enhanced CLIIntegrated FirewallIPv4 & IPv6 Management Support Local Console PortPer-VLAN Statistics Port State MirroringRADIUS Client and RADIUS AuthenticationRemote Auto configuration via TFTP, SFTPRemote Link Loss Forwarding (RLLF)RFC 959 File Transfer Protocol (FTP)RFC 1035 DNS ClientRFC 1213 SNMP MIB IIRFC 1493 Bridge MIBRFC 1573 MIB II interfacesRFC 1643 Ethernet-like Interface MIBRFC 1757 RMON MIB - including persistent configurationRFC 2021 RMON II and RMON StatisticsRFC 2131 DHCP ClientRFC 3877 Alarm MIBRFC 4291 – IPv6 addressing (for Management Plane)RFC 4443 – ICMPv6RFC 4862 – Stateless address autoconfigurationRFC 5905 NTP ClientRFC 1350 Trivial File Transfer Protocol (TFTP)Secure File Transfer Protocol (SFTP)Secure Shell (SSHv2)SNMP v1/v2c/v3SNMP v3 Authentication and Message EncryptionSoftware upgrade via FTP, SFTPSyslog with Syslog AccountingTACACS + AAATelnet ServerVirtual Link Loss Indication (VLLI)Zero Touch Provisioning
++
+Alarm Management & Monitoring Configuration
+Comprehensive Management via OneControl Enhanced CLI
+Integrated Firewall
+IPv4 & IPv6 Management Support Local Console Port
+Per-VLAN Statistics Port State Mirroring
+RADIUS Client and RADIUS Authentication
+Remote Auto configuration via TFTP, SFTP
+Remote Link Loss Forwarding (RLLF)
+RFC 959 File Transfer Protocol (FTP)
+RFC 1035 DNS Client
+RFC 1213 SNMP MIB II
+RFC 1493 Bridge MIB
+RFC 1573 MIB II interfaces
+RFC 1643 Ethernet-like Interface MIB
+RFC 1757 RMON MIB - including persistent configuration
+RFC 2021 RMON II and RMON Statistics
+RFC 2131 DHCP Client
+RFC 3877 Alarm MIB
+RFC 4291 – IPv6 addressing (for Management Plane)
+RFC 4443 – ICMPv6
+RFC 4862 – Stateless address autoconfiguration
+RFC 5905 NTP Client
+RFC 1350 Trivial File Transfer Protocol (TFTP)
+Secure File Transfer Protocol (SFTP)
+Secure Shell (SSHv2)
+SNMP v1/v2c/v3
+SNMP v3 Authentication and Message Encryption
+Software upgrade via FTP, SFTP
+Syslog with Syslog Accounting
+TACACS + AAA
+Telnet Server
+Virtual Link Loss Indication (VLLI)
+Zero Touch Provisioning
++ Service Security Broadcast Containment Egress Port RestrictionHardware-based DOS Attack Prevention Layer 2, 3, 4 Protocol FilteringUser Access Rights
++
+Broadcast Containment Egress Port Restriction
+Hardware-based DOS Attack Prevention Layer 2, 3, 4 Protocol Filtering
+User Access Rights
++ Agency Approvals Australia C-Tick (Australia/New Zealand) CE mark (EU) EMC Directive (2014/30/EU)LVD Directive (2006/95/EC)RoHS2 Directive (2011/65/EU)ETSI 300 019 Class 1.2, 2.2, 3.1EGR-1089 Issue 6 – NEBS Level 3GR-63-CORE, Issue 4 – NEBS Level 3, Zone 4 EarthquakeNRTL (NA)VCCI (Japan)
++
+Australia C-Tick (Australia/New Zealand) CE mark (EU) EMC Directive (2014/30/EU)LVD Directive (2006/95/EC)RoHS2 Directive (2011/65/EU)
+EMC Directive (2014/30/EU)
+LVD Directive (2006/95/EC)
+RoHS2 Directive (2011/65/EU)
+ETSI 300 019 Class 1.2, 2.2, 3.1E
+GR-1089 Issue 6 – NEBS Level 3
+GR-63-CORE, Issue 4 – NEBS Level 3, Zone 4 Earthquake
+NRTL (NA)
+VCCI (Japan)
++Standards Compliance Emissions: CISPR 22 Class ACISPR 32 Class AEN 300 386EN 55022EN 55032FCC Part 15 Class AGR-1089 Issue 6Industry Canada ICES-003 Class AVCCI Class AEnvironmental: RoHS2 Directive (2011/65/EU)Immunity (EMC): CISPR 24EN 300 386EN 55024GR-1089 Issue 6Power: ETSI EN 300 132-2ETSI EN 300 132-3Safety: ANSI/UL 60950-1 2nd edition 2007CAN/CSA C22.2 No. 60950-1-07EN 60950-1IEC 60825-1 2nd edition (2007)IEC 60825-2 3rd edition (2004)IEC 60950-1
++
+Emissions: CISPR 22 Class ACISPR 32 Class AEN 300 386EN 55022EN 55032FCC Part 15 Class AGR-1089 Issue 6Industry Canada ICES-003 Class AVCCI Class A
+CISPR 22 Class A
+CISPR 32 Class A
+EN 300 386
+EN 55022
+EN 55032
+FCC Part 15 Class A
+GR-1089 Issue 6
+Industry Canada ICES-003 Class A
+VCCI Class A
+Environmental: RoHS2 Directive (2011/65/EU)
+RoHS2 Directive (2011/65/EU)
+Immunity (EMC): CISPR 24EN 300 386EN 55024GR-1089 Issue 6
+CISPR 24
+EN 300 386
+EN 55024
+GR-1089 Issue 6
+Power: ETSI EN 300 132-2ETSI EN 300 132-3
+ETSI EN 300 132-2
+ETSI EN 300 132-3
+Safety: ANSI/UL 60950-1 2nd edition 2007CAN/CSA C22.2 No. 60950-1-07EN 60950-1IEC 60825-1 2nd edition (2007)IEC 60825-2 3rd edition (2004)IEC 60950-1
+ANSI/UL 60950-1 2nd edition 2007
+CAN/CSA C22.2 No. 60950-1-07
+EN 60950-1
+IEC 60825-1 2nd edition (2007)
+IEC 60825-2 3rd edition (2004)
+IEC 60950-1
+Related insights and resources
+Application Notes
+A Path to a Modern and Versatile Government Broadband Network
+Videos
+Ciena at SCTE Cable-Tec - Wayne Hickey Interview
+White Papers
+Elegant Migration from TDM to a Modern Routing and Switching Network
+Application Notes
+Solving the TDM-to-Packet Migration Challenge
+Application Notes
+Blueprint for Utility Network Modernization: Ciena's 6500 PTS
+Videos
+In the lab: 6500 PTS
+View more
+View more
+Related products and services
+6500 Family
+Network Modernization
+3926 Platform—CPE for 10 Gb/s service delivery of IP and Ethernet
+Manage, Control and Plan (MCP) Applications
+Questions? Ask the community
+Want to know more about the 6500 Packet Transport System? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

@@ -1,0 +1,485 @@
+URL: https://www.ciena.com/products/ciena-services/build
+
+Products and services
+Network insights
+Sales and support
+About us
+Consulting ServiceImplementation ServiceSystem Integration Services
+Strong foundations deliver strong results
+Success begins with building a strong foundation—we work with you to build a responsive, automated, and agile network that flexes with your needs.
+It starts with taking a comprehensive view of your business goals and technology requirements. We analyze, plan, design, and deploy your network with these objectives in mind. Ciena’s Consulting, Implementation, and Systems Integration Services make sure your network is built right—the first time.
+Consulting Service
+Ask. Listen. Understand. Plan.
+What would it mean to you if technology partners viewed your network like you do?
+Your network infrastructure underpins your business growth. So, any change must be well planned to ensure you meet business objectives, minimize disruption, and maximize ROI. Having a partner to guide you with strategic consulting expertise is critical.
+Ciena’s Consulting Service embraces an all-in view of both your business and network. We address essential questions that set a direction to deliver the right solutions with the greatest return. Whether through strategic consulting, project consulting, developing robust custom analytic tools—or a combination―you can leverage the full scope of our experience and knowledge to reach your goals.
+Implementation Service
+Building your network from plan to execution―let us manage the risk for you
+How often do you tackle full or partial network deployment? Whether it’s regularly or rarely, by working with a teammate who does it every day brings peace of mind.
+Our experienced, highly skilled teams use proven processes to plan, design, and deploy networks, leveraging our powerful automation framework. With nearly 30 years’ experience deploying the most complex networks worldwide, we know what to do. We’ve also learned what not to do.
+Ciena’s Implementation Service offers flexible alternatives to conventional in-house models. Leverage our expertise and benefit from a single point of responsibility for your network implementation.
+Systems Integration Services
+Simplifying complexity
+Any network seems manageable when limited to like vendors and devices. But what happens in the real world? How do networks survive and thrive when bringing together disparate, multi-vendor technologies and applications?
+Unlike traditional systems integrators offering generic capabilities, Ciena’s Systems Integration (SI) Services are specialized, focusing on network evolution. Built on our expertise and experience enabling large and complex network transformations, we understand your operational processes and network complexity.
+And as the experts in Ciena’s industry-leading hardware and software solutions, we’re your ideal systems integration partner to help leverage your Ciena investments as part of your ongoing network journey.
+Systems Integration Service for Virtualized Edge
+Virtualizing your network edge presents a compelling opportunity ―powerful capabilities, rapid deployment, and enhanced customer experience.  But these benefits come with potential risk because of complex implementation and a lack of in-house expertise.
+We offer a pragmatic solution.
+Leverage Ciena’s extensive experience in helping some of the world’s largest CSPs and enterprises successfully implement virtualized network infrastructure for enhanced services, automation, and agility.
+Systems Integration Service for Solution Validation
+How valuable would it be to ensure that new hardware or software capabilities operate as expected—before deploying them in your network?
+Ciena engineers apply their lab expertise, enabling you to verify your solutions—first.
+We are your partner to help navigate the pitfalls of new deployments. With deep network knowledge and proven planning methodologies, Ciena’s Solution Validation Service accelerates your time to market while reducing risk.
+Related insights and resources
+Videos
+A high-level introduction to Ciena’s Implementation Service which plans, designs and deploys networks all day, every day.
+Infobriefs
+Ciena Services helps maximize network agility, responsiveness, and investment efficiency, relying on a proven stepwise analytical approach.
+Videos
+A high-level introduction to Ciena's Systems Integration Service for Virtualized Edge.
+Infobriefs
+The complexity and depth of change can be challenging when moving to virtualization. Ciena’s Systems Integration Service is highly specialized and focused on network evolution.
+Infobriefs
+Ciena’s Service Integration Service for Solution Validation allows operators to keep their networks up to date and introduce new services faster, with less risk.
+Infobriefs
+Ciena’s Implementation Service offers an alternative to traditional turn-key deployment models, allowing end-users to leverage Ciena’s technical experience et al.
+Articles
+Vendor equipment swaps are typically complex from a technical as well as an operational standpoint due to the need to ensure network service continuity and stability during the transition process. Chris Antlitz details a real-world use case that involved
+Articles
+TBR analyst Chris Antlitz details how a tier 1 service provider achieved a successful and cost-effective transition from legacy TDM services by leveraging a trusted partner with years of experience and proven methodologies for tackling complex network
+Articles
+TBR analyst Chris Antlitz details the benefits of a “consolidate and transform” approach to network modernization, and how a Tier 1 North American-based operator recently used this strategy to achieve lowered opex, less operational risk, and a host of
+View more
+View more
+Questions? Ask the community.
+Ready to build a future-ready network? Let’s talk.
+Tweet
+Post
+Share
+Email
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

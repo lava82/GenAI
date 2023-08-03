@@ -1,0 +1,547 @@
+URL: https://www.ciena.com/products/waverouter
+
+Products and services
+Network insights
+Sales and support
+About us
+All products
+Ask the community
+WaveRouter
+Ciena’s WaveRouter™ is a purpose-built coherent metro router designed to unify IP and Optical in the metro—with ultimate flexibility, future-proof extensibility, and improved network sustainability.
+WaveRouter can easily and flexibly scale Wide Area Network (WAN) traffic—with the ability to scale up and out, delivering capacity when and where it’s needed. With optional WaveLogic™ capabilities, WaveRouter can support dense, any-to-any, high-capacity coherent routing and switching metro applications.
+What is metro routing done differently?
+WaveRouter represents a true break from legacy constraints—a reimagined routing platform architecture for the converged metro. WaveRouter’s 600mm depth is a footprint-efficient design that fits anywhere. WaveRouter can support a wide range of plugs and submodules without stranding chipset or fabric capacity—whether pluggables (including WaveLogicTM) or ultra-long-haul submodules.
+Flexible commons, fabric, and interface modules
+WaveRouter offers metro operators a way to easily scale out with extensible switch fabric and flexible cabling options for non-adjacent rows. WaveRouter can reduce blast radius, spread thermal load over multiple racks, and take advantage of fragmented racks.
+Control Timing Module (CTM)
+1+1 Redundant
+Route Processor (RP)
+Control Plane & Fabric Management
+Fabric Box (FB)
+32 x QSFP-DD or mix of DAC/AEC/AOC ports
+Full duplex between all Interface Boxes
+N+1 Fabric redundancy
+QSFP Box (QB)
+Any housing slot
+Networking Ports 15 x 100/200/400GbE or 100/200/400 WL5n 400GZR/ZR+
+15 x 100/200/400GbE or 100/200/400 WL5n 400GZR/ZR+
+20 x 400G QSFP-DD Fabric ports
+WaveRouter features and benefits
+Ultra-high metro capacity and multi-layer (IP/Optical) awareness and coordination
+Commercial temperature (0°C to +40°C) for space-constrained locations
+Separate modular redundant controller and fabric, providing scale from 6-192 Tb/s
+IP routing, BGP-LU, SR-MPLS, Carrier Ethernet, and SRv6 ready
+MACsec and IPsec ready
+SDN next-generation management, including support for protocols such as NETCONF/YANG, gNMI/gRPC with dial-in/dial-out streaming telemetry
+Specs
++Interface ModulesInterface Box: (15) 400/200/100GbE QSFP-DD
++
+Interface Box: (15) 400/200/100GbE QSFP-DD
++Commons & Fabric ModulesControl and Timing Module (CTM)Access Panel (AP): 1/10GbE management, alarm, consoleFabric Box: (32) QSFP-DD w/DAC/AOC
++
+Control and Timing Module (CTM)
+Access Panel (AP): 1/10GbE management, alarm, console
+Fabric Box: (32) QSFP-DD w/DAC/AOC
++Physical CharacteristicsShelf in a 21 Rack Unit (RU) housing with removable fans: 19" (W) 21.53" (D) 35.91" (H)482.57 mm (W) 546.85 mm (D) 912.2 mm (H)
++
+Shelf in a 21 Rack Unit (RU) housing with removable fans: 19" (W) 21.53" (D) 35.91" (H)482.57 mm (W) 546.85 mm (D) 912.2 mm (H)
+19" (W) 21.53" (D) 35.91" (H)
+482.57 mm (W) 546.85 mm (D) 912.2 mm (H)
++PowerRedundant, N+1 field replaceableAC input: 180–240 Vac (nominal)DC input: -48 Vdc (nominal)ETSI EN 300 132-2 V1.1.1ETSI EN 300 132-3 V2.1.1
++
+Redundant, N+1 field replaceable
+AC input: 180–240 Vac (nominal)
+DC input: -48 Vdc (nominal)
+ETSI EN 300 132-2 V1.1.1
+ETSI EN 300 132-3 V2.1.1
++EthernetIEEE 802.1D MAC BridgesIEEE 802.1p Class of Service (CoS) prioritizationIEEE 802.1Q VLANsIEEE 802.3-2018 IEEE Standard for Ethernet and supporting following rates: IEEE 802.3ba-2010 100 Gb/sIEEE 802.3bs-2017 200/400 Gb/s
++
+IEEE 802.1D MAC Bridges
+IEEE 802.1p Class of Service (CoS) prioritization
+IEEE 802.1Q VLANs
+IEEE 802.3-2018 IEEE Standard for Ethernet and supporting following rates: IEEE 802.3ba-2010 100 Gb/sIEEE 802.3bs-2017 200/400 Gb/s
+IEEE 802.3ba-2010 100 Gb/s
+IEEE 802.3bs-2017 200/400 Gb/s
++Standards ComplianceEmissions and Immunity (EMC)EN 55035 / CISPR 32CISPR 35ETSI 300 386 Class AFCC Part 15 Subpart B, Class AIndustry Canada ICES-003 Class AVCCI Class ANEBS (GR-63-CORE Issue 5, GR-1089-CORE Issue 8) - Level 3 compliant (except full temperature range) - LEVEL 3 compliant (except high-temperature) GR-63  Issue 5
++
+Emissions and Immunity (EMC)
+EN 55035 / CISPR 32
+CISPR 35
+ETSI 300 386 Class A
+FCC Part 15 Subpart B, Class A
+Industry Canada ICES-003 Class A
+VCCI Class A
+NEBS (GR-63-CORE Issue 5, GR-1089-CORE Issue 8) - Level 3 compliant (except full temperature range) - LEVEL 3 compliant (except high-temperature) GR-63  Issue 5
++SafetyETSI EN 62368-1:2014+A11:2017 and CSA/ UL 62368-1:2014IEC 60825-1 Class AIEC 60825-2 Hazard Level 1M
++
+ETSI EN 62368-1:2014+A11:2017 and CSA/ UL 62368-1:2014
+IEC 60825-1 Class A
+IEC 60825-2 Hazard Level 1M
++EnvironmentalETSI EN 300-019-1-1, Class 1.2300 019-1-2, Class 2.3ETSI 300 018-1-3, Class 3.1NEBS Level 3 CO (GR-63 Core)RoHS2 Directive (2011/65/EU, 2015/863)WEEE Directive (2002/96/EU)Operating Temperature32°F to +104°F (0°C to +40°C)Storage Temperature-40°F to +158°F (-40°C to +70°C)HumidityNon-condensing 5% to 90%
++
+ETSI EN 300-019-1-1, Class 1.2
+300 019-1-2, Class 2.3
+ETSI 300 018-1-3, Class 3.1
+NEBS Level 3 CO (GR-63 Core)
+RoHS2 Directive (2011/65/EU, 2015/863)
+WEEE Directive (2002/96/EU)
+Operating Temperature32°F to +104°F (0°C to +40°C)
+32°F to +104°F (0°C to +40°C)
+Storage Temperature-40°F to +158°F (-40°C to +70°C)
+-40°F to +158°F (-40°C to +70°C)
+HumidityNon-condensing 5% to 90%
+Non-condensing 5% to 90%
++Service SecurityBroadcast Containment Egress Port RestrictionHardware-based DOS Attack PreventionLayer 2, 3, 4 Protocol FilteringUser Access Rights Local user authorization
++
+Broadcast Containment Egress Port Restriction
+Hardware-based DOS Attack Prevention
+Layer 2, 3, 4 Protocol Filtering
+User Access Rights Local user authorization
+Related insights and resources
+Videos
+Meet Ciena’s purpose-built coherent metro router and hear how Ciena’s simple, scalable, and sustainable WaveRouter takes and improves on the best of chassis.
+White Papers
+This paper by Omdia explores the evolution of metro platform architecture to hybrid-DDC chassis with integrated coherent optics.
+White Papers
+Ciena is completely transforming coherent routing by introducing WaveRouter, a new platform architecture built on an open purpose-built router.
+Articles
+There’s way more to IP/Optical convergence than just a plug in a router. Scott McFeely Ciena’s SVP of Global Products & Services explains how combining the best in IP, coherent optics, flexible photonics, and multi-layer control and automation can deliver real performance and sustainability advantages for network operators in a cloud-driven, always-connected world.
+MLGC is deploying Ciena’s 5164 Router, 8110 Coherent Aggregation Router, 8114 Coherent Aggregation Router and WaveLogic 5 Nano coherent pluggable optics.
+Articles
+It is no longer a question of if people want a new way to build their IP networks, but how. Ciena’s Joe Marsella explains how the innovations Ciena has made to deliver open, automated, and lean IP benefit our customers and have influenced how the industry is thinking about the evolution to next-generation metro and edge networks.
+View more
+View more
+Related products and solutions
+8110 Coherent Aggregation Router for 100GbE services
+8112 Coherent Aggregation Router for 25GbE services
+8114 Coherent Aggregation Router for 1/20/25/100GbE services
+8140
+8190 Coherent Aggregation Router for 400GbE services
+Manage, Control and Plan (MCP) Applications
+Questions? Ask the community.
+Want to know more about Ciena’s WaveRouter Coherent Metro Router? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

@@ -1,0 +1,494 @@
+URL: https://www.ciena.com/products/liquid-spectrum
+
+Products and services
+Network insights
+Sales and support
+About us
+MCP APPLICATIONS
+Liquid Spectrum
+Optical reimagined for an on-demand world
+Level up to a smarter optical network
+Cloud. Virtual reality. Internet of Things. 5G. Your network transformation is underway. But it's being engineered, operated, and monetized in the same old static way. You need a smarter, faster way of keeping up with demands. But how?
+Ciena's award-winning Liquid Spectrum™ combines real-time analytics and advanced automation across a programmable photonic layer to help you maximize the value of your network assets and realize the benefits of the Adaptive Network™. And now with Photonic Performance Gauge—which puts unprecedented visibility at your fingertips—you can optimize optical performance like never before.
+It's optical, redefined for the on-demand world. It’s Liquid Spectrum.
+Customer spotlight
+See how our customers are using Liquid Spectrum to do a lot more with less—such as gaining more capacity with fewer modems, more visibility with less complexity, and more flexibility with less intervention in the network.
+Smarter networking with software intelligence in New Zealand
+Listen to learn how Spark is using to improve network efficiencies and ensure connectivity even during unexpected events.
+Quickly adapt to changing customer requirements
+Learn how Marcatel in Mexico is using Channel Margin Gauge to ensure the most efficient use of network resources.
+Solving today’s optical network challenges with Liquid SpectrumTM
+Learn how providers like TELUS are using Liquid Spectrum to transform their day-to-day operations.
+Delivering agility and scale through an instrumented, programmable optical layer
+Liquid Spectrum leverages the rich instrumentation and in-service monitoring capabilities of WaveLogic™ Photonics, Ciena’s reconfigurable photonic layer that includes WaveLogic programmable coherent optics. The result? Actionable insights that enable providers to make intelligent decisions based on the current state of the network.
+Key hardware elements
+Flexible grid, reconfigurable photonic layer
+Ciena's WaveLogic Photonics, a highly instrumented, flexible grid photonic layer, supports any combination of colorless, directionless, and contentionlessflexibility.
+Variable bit-rate, programmable coherent optics
+Ciena's WaveLogic coherent optics deliver 100G to 800G solutions, with tunable capacity in 50G increments, enabling operators to maximize capacity across all paths in their network.
+Efficient matching of clients to variable line capacity
+A centralized Optical Transport Network (OTN) or packet switching architecture, such as Ciena’s 6500 Packet-Optical Platform, or a high-density muxponder solution, like Waveserver® Ai or Waveserver 5.
+Redefining optical with advanced software applications
+Liquid Spectrum’s advanced software applications leverage Ciena's Manage, Control and Plan SDN domain controller and open APIs to abstract complexity associated with advanced flexible technologies, enabling operators to fully operationalize and realize the benefits associated with a modernized network.
+Liquid Spectrum advanced software applications
+Planning Tool Calibrator
+Enables you to proactively ensure optimal system performance by providing access—for the first time—to real-time, accurate planning data for both the existing hardware and new planned services.
+Bandwidth Optimizer
+Uses customer-defined service policies and suggests the ideal capacity, hardware configuration, and spectral placement for any channel, across any network path.
+PinPoint OTDR
+Allows you to precisely localize and address potential trouble spots, reducing the risk of outages and accelerating repair times from days to hours.
+Channel Margin Gauge
+Provides instant real-time visibility into the efficiency of your network and lets you know if you can run your deployed optics at higher capacities.
+Photonic Performance Gauge
+Provides an instant health check of the photonic network, including optical restoration paths before photonic restoration, with unprecedented real-time visibility of photonic performance (even without active transponders).
+Liquid Restoration
+Increases service availability with flexible adjustment of deployed coherent optical capacity as needed to route affected services across any available path in the network.
+Wondering where to start?
+As your partner, Ciena Services ensures that you leverage Liquid Spectrum Analytics Apps to extract the full value of your network assets across any stage of the photonic network lifecycle. We augment your team with our industry-leading experts, tools, and methodologies, including powerful, role-based learning, to implement the incremental changes and improvements required to achieve your business objectives.
+Liquid Spectrum resources
+Videos
+Ciena’s Liquid Spectrum Analytics Apps combine real-time analytics with increased automation to simplify operations and network assets.
+eBooks
+Ciena’s Liquid Spectrum helps providers extract the full value of network assets across all stages of the photonic network lifecycle.
+Articles
+Data is coming fast and furious for network providers – how can they understand what is happening so they can make smarter decisions to transform their optical network operations? Ciena’s Paulina Gomez explains how customers are doing this today with
+Articles
+Over the past several years, coherent technology advancements have enabled providers to meet increasing capacity demands while continuing to lower the cost per bit of transport. However, as we get closer and closer to the Shannon Limit, the gains we
+Increase operational simplicity with unprecedented visibility with Liquid Spectrum: Photonic Performance Gauge
+Utilize unused network margin to increase service agility
+Application Notes
+Ciena's Liquid Spectrum changes the way optical networks are engineered, operated, and monetized. It enables systems that are both scalable to meet today۪s significant bandwidth demands, as well as open and programmable to deliver the exact service
+Videos
+Ciena's Liquid Spectrum combines highly instrumented, programmable hardware with advanced software applications, allowing you to tune, control, and dynamically adjust optical capacity in real time.
+Related MCP Applications
+Manage, Control and Plan (MCP) Applications
+PlannerPlus
+Adaptive IP Apps
+Emulation Cloud for Open Application Development
+Questions? Ask the community.
+Want to know more about Liquid Spectrum? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.

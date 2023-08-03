@@ -1,0 +1,525 @@
+URL: https://www.ciena.com/products/routing-switching?src=nav#family-5000
+
+Products and services
+Network insights
+Sales and support
+About us
+Ask the community
+All products
+Routing and Switching
+Evolutionize your networks
+Ultra High Definition (UHD) video streaming, the Internet of Things (IoT), Artificial Intelligence (AI), Augmented/Virtual Reality (AR/VR), and mobile gaming are just some of the omnipresent applications in our daily lives that change how we conduct business, interact, and simply have fun. Networks must evolve to support these applications—they must be able to adapt.
+From our leading WaveLogicTM 5 Nano coherent pluggables to Adaptive IPTM, Ciena’s networking products and approaches allow operators to cost-effectively modernize their network assets by taking advantage of technologies like Network Functions Virtualization (NFV), Segment Routing, and edge computing—efficiently supporting existing business opportunities while preparing for new and emerging ones.
+IP delivered differently
+Ciena’s Adaptive IP is a unique approach that combines our market-leading routing and switching platforms with machine-learning-powered analytics and intelligent automation software to improve flexibility, scalability, and faster time-to-revenue—providing a more future-proof IP network architecture, from access to metro.
+Our Routing and Switching platforms are…
+Purpose-built for specific applications and use-cases
+Avoid unnecessarily complex and costly overbuilds. Our cost-effective platforms are fully programmable, scalable, disaggregated, and Software-Defined Networking (SDN) ready, supporting open interfaces and streaming real-time telemetry. They have the right speeds, feeds, switching capacities, form-factors, environmental attributes, and power supply options to address your unique requirements, from access to metro. Whether it's 4G to 5G mobile network evolution, business services, cloud, Fiber Deep, broadband, or edge computing applications, we’ve got you covered.
+Powered by Ciena’s Service-Aware Operating System
+Ciena’s Service-Aware Operating System (SAOS) provides automation-friendly intelligence and streaming operational data to enable network-level programmability supported by open standards, such as IGP, BGP, Segment Routing, NETCONF/YANG, and gRPC.
+Easy to manage—putting you in control of your unique mission-critical networks
+Get unprecedented multilayer visibility with Ciena’s Manage, Control and Plan (MCP) software, which offers a unique and comprehensive network administration solution. MCP supports a programmable and automatable solution that leverages standards based NETCONF/YANG interfaces to provide fully open integration into any SDN environment.
+Products
+3000 Family
+These cost-effective and compact platforms are available with a range of physical ports of up to 10GbE. They’re purpose-built to fit numerous small, medium, and large customer sites as well as multitenant office and residential buildings, supporting Passive Optical Networks (PONs), TDM, Ethernet, Multi-Protocol Label Switching (MPLS), IP, Segment Routing, and virtual network services. Mounting options include rack, wall, pole or strand, with appropriate enclosures and temperature ranges to solve your unique challenges.
+Family of Products
+3801
+3903x
+3924
+3948
+3802
+3906
+3926
+3984
+3806
+3916
+3928
+3985
+3903
+3922
+3931
+See All
+5000 Family
+These platforms provide efficient aggregation to cost-effectively fill higher capacity links within both the metro access and aggregation tiers. With PON, Ethernet, MPLS, IP, and Segment Routing capabilities, they simplify network evolution and support new and emerging services. In addition, the 5000 family along offers state-of-the-art Operations, Administration, and Maintenance (OAM) and Quality of Service (QoS) capabilities, which eliminate significant operational complexity and cost and can be deployed in a wide variety of locations.
+Family of Products
+5130
+5144
+5168
+5131
+5160
+5169
+5132
+5164
+5171
+5142
+5166
+See All
+6500 Packet Transport System
+Ciena’s 6500 Packet Transport System (6500 PTS) addresses the growing need to maintain the profitable delivery of legacy TDM services, while future-proofing investments toward network modernization. To this day, network providers continue to add to their TDM infrastructure—an investment that is getting more expensive to run and operate. Clearly doing more of the same only increases operational expenses due to expensive spares and higher maintenance, hard-to-find legacy skill sets, and manual operations.
+8100 Family
+As customers demand savings in power, cooling, and transport costs, Ciena’s family of coherent aggregation and metro routers are delivering results and changing the edge. With multiple coherent routers available, customers can choose the right mix of connections and services—from 1GbE to 400GbE and aggregation to 100/200/400GbE WaveLogic™ 5 Nano coherent pluggables.
+Family of Products
+8110
+8112
+8114
+8140
+8180
+8190
+WaveRouter
+Ciena’s WaveRouter™ is a purpose-built coherent metro router designed to unify IP and Optical in the metro—with ultimate flexibility, future-proof extensibility, and improved network sustainability.
+8700 Packetwave® Platform
+Ciena’s 8700—a multi-terabit programmable Ethernet-over-DWDM packet switch—addresses the growing need to efficiently aggregate and switch large quantities of packet traffic while guaranteeing stringent Service Level Agreements (SLAs). It revolutionizes the capital and operational economics of 10GbE and 100GbE services in metro and regional Ethernet networks.
+Pluggable Transceiver Family
+Ciena’s family of pluggable transceivers allow for a flexible, pay-as-you-grow deployment model when adding specific functions to products within our Routing and Switching platforms. For example, WaveLogic 5 Nano 100G/200G/400G QSFP-DD and CFP2-DCO pluggable optics enable a highly flexible coherent transmission in a compact, pluggable form.
+
+Traditional TDM services can be mapped onto a packet-based infrastructure, benefiting from its low cost-point while still maintaining the stringent timing and resilience required by the service. Shared fiber 10G PON Optical Line Terminals (OLTs) simply plug into a 3000/5000/8000 router or switch when and where you need it. The end result? New and renewed revenue streams.
+Offered products
+Universal Aggregation and Access over 10G PON Transceiver
+Channelized SONET/SDH over Packet Transceiver
+Ciena’s WaveLogic 5 Nano Coherent Transceiver
+Transparent PDH over Packet Transceivers
+Virtual Container over Packet Transceivers
+See All
+Virtualization software
+Ciena’s family of virtualized solutions and platforms enable multiple network functions to be delivered from the cloud without requiring purpose-built hardware. From broadband to enterprise services, network operators can now rapidly capture new revenue by rolling out virtualized network services at the speed of the cloud through Ciena’s virtual Broadband Network Gateway (vBNG), virtual WiFi Access Gateway (vWAG), and Distributed NFVI (D-NFVI).
+Family of Products
+Ciena D-NFVI Software
+Ciena’s virtual Broadband Network Gateway (vBNG)
+Ciena virtual WiFi Access Gateway (vWAG)
+Related resources
+eBooks
+Ciena's Routing and Switching solutions combine intelligent devices and software to create the infrastructure needed to transform your network. Use this e-book as your guide to evolutionize your network.
+Application Notes
+Service providers have a networking challenge and opportunity. They must evolve away from their outdated TDM networks, which are no longer sustainable.
+White Papers
+Ciena has introduced Adaptive IP, an innovative solution that offers the essential IP capabilities required to support new applications.
+Application Notes
+This paper explains how Ciena’s 6500 PTS solves multiple TDM-to-packet migration challenges.
+Ciena’s Universal Aggregation (UA) solution enables aggregation of traffic from TDM, IP, and Ethernet services using dedicated and shared fiber on the same, cost-effective routing and switching platform.
+Questions? Ask the community
+Ready to transform your network? Let's talk.
+Products and services: See how the Adaptive Network powers connections around the world
+Products and services: See how the Adaptive Network powers connections around the world
+Analytics and Intelligence
+Analytics and Intelligence
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Blue Planet Unified Assurance and Analytics
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+Liquid Spectrum apps
+More
+Control and Automation
+Control and Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Intelligent Automation
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet Multi-Domain Service Orchestration (MDSO)
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet NFV Orchestration
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Route Optimization and Analysis
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Blue Planet Inventory
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+Manage, Control and Plan (MCP)
+More
+Programmable Infrastructure
+Programmable Infrastructure
+Converged packet optical
+Converged packet optical
+Converged packet optical
+Converged packet optical
+6500 Family
+6500 Family
+6500 Family
+6500 Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+Waveserver Family
+WaveLogic
+WaveLogic
+WaveLogic
+WaveLogic
+Coherent ELS
+Coherent ELS
+Coherent ELS
+Coherent ELS
+5400 Family
+5400 Family
+5400 Family
+5400 Family
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+3000 Family
+3000 Family
+3000 Family
+3000 Family
+5000 Family
+5000 Family
+5000 Family
+5000 Family
+6500 PTS
+6500 PTS
+6500 PTS
+6500 PTS
+8100 Family
+8100 Family
+8100 Family
+8100 Family
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+8700 Packetwave Platform
+WaveRouter
+WaveRouter
+WaveRouter
+WaveRouter
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Pluggable Transceiver Family
+Virtualization Software
+Virtualization Software
+Virtualization Software
+Virtualization Software
+More
+Services
+Services
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Services Portfolio
+Network Transformation
+Network Transformation
+Network Transformation
+Network Transformation
+Build Services
+Build Services
+Build Services
+Build Services
+Operate Services
+Operate Services
+Operate Services
+Operate Services
+Improve Services
+Improve Services
+Improve Services
+Improve Services
+Solutions
+Solutions
+5G
+5G
+5G
+5G
+DCI
+DCI
+DCI
+DCI
+Fiber Deep
+Fiber Deep
+Fiber Deep
+Fiber Deep
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+GeoMesh submarine
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Liquid Spectrum
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Technology principles
+Technology principles
+Openness
+Openness
+Openness
+Openness
+Scalability
+Scalability
+Scalability
+Scalability
+Security
+Security
+Security
+Security
+The Adaptive Network
+Learn more
+The Adaptive Network
+View all products
+View all products
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Network insights: The latest blogs, videos and reports to transform your business through network innovation
+Insights by topic
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+5G and mobile networking
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Converged Interconnect Network
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Data Center Interconnect
+Network and data security
+Network and data security
+Network and data security
+Network and data security
+Optical networking
+Optical networking
+Optical networking
+Optical networking
+PON
+PON
+PON
+PON
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Residential Broadband
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Routing and Switching
+Submarine networking
+Submarine networking
+Submarine networking
+Submarine networking
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Universal Aggregation
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+Virtualized Edge
+More
+Insights by industry
+Insights by industry
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Cable/MSO
+Federal government
+Federal government
+Federal government
+Federal government
+Finance
+Finance
+Finance
+Finance
+Healthcare
+Healthcare
+Healthcare
+Healthcare
+K-12
+K-12
+K-12
+K-12
+Regional service providers
+Regional service providers
+Regional service providers
+Regional service providers
+Research and education
+Research and education
+Research and education
+Research and education
+State & local government
+State & local government
+State & local government
+State & local government
+Transportation
+Transportation
+Transportation
+Transportation
+Utilities
+Utilities
+Utilities
+Utilities
+More
+Get the latest network insights in your inbox
+Learn more
+Get the latest network insights in your inbox
+Article
+Top 4 reasons to transform your network now
+Sales and support: Connect with us
+Sales and support: Connect with us
+Contact sales
+Contact sales
+Email
+Email
+Email
+Email
+Toll-free number
+Toll-free number
+Toll-free number
+Toll-free number
+International number
+International number
+International number
+International number
+Worldwide office locations
+Worldwide office locations
+General Inquiries
+General Inquiries
+Contact Support
+Contact Support
+Support by Phone
+Support by Phone
+Support by Phone
+Support by Phone
+Service/support portal
+Service/support portal
+Service/support portal
+Service/support portal
+Contact Security
+Contact Security
+Contact Security
+Contact Security
+Join the Ciena community
+Learn more
+Join the Ciena community
+Events
+Events
+Executive Briefing Center
+Executive Briefing Center
+Technical documentation
+Technical documentation
+About us
+About us
+CienaLife: A place where you can belong
+CienaLife: A place where you can belong
+Customers
+Customers
+Partners
+Partners
+Investors
+Investors
+Careers
+Careers
+Newsroom
+Newsroom
+Corporate responsibility
+Corporate responsibility
+Sustainability
+Sustainability
+Products and services
+Network insights
+Sales and support
+About Us
+Contact us
+Contact us: Visit Contact us page
+World wide
+World wide: Visit World wide page
+About Us
+About Us: Visit About Us page
+About Us
+About Us: Visit About Us page
+Partners
+Partners: Visit Partners page
+Partners
+Partners: Visit Partners page
+Investors
+Investors: Visit Investors page
+Investors
+Investors: Visit Investors page
+Careers
+Careers: Visit Careers page
+Careers
+Careers: Visit Careers page
+Worldwide
+Worldwide: Visit Worldwide page
+Worldwide
+Worldwide: Visit Worldwide page
+Community
+Community: Visit Community page
+Community
+Community: Visit Community page
+Main menu
+See all products and services
+See all products and services
+Analytics and Intelligence
+Control and Automation
+Programmable Infrastructure
+Services
+Solutions
+Technology principles
+Products and services
+Analytics and Intelligence
+Analytics and Intelligence
+Products and services
+Products and services
+Products and services
+Products and services
+Products and services
+Main menu
+Insights by topic
+Insights by industry
+Network insights
+Network insights
+Main menu
+Contact Sales
+Contact Support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Sales and support
+Main menu
+About
+About: The About: page
+Newsroom
+Newsroom: Be in the know of what's going on at Ciena
+Partners
+Partners: Visit the Partners page
+Investors
+Investors: Visit the Investor Relations page
+Careers
+Careers: Get more information about working at Ciena
+Sitemap
+Sitemap
+BluePlanet.com
+BluePlanet.com
+ShopCiena.com
+ShopCiena.com
+WorldWide
+WorldWide
+Preference Center
+Preference Center
+Sustainability
+Sustainability
+Privacy policy
+Privacy policy
+Legal notices
+Legal notices
+Cookies
+Cookies
+Accessibility
+Accessibility
+Ciena is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. Please let us know if you encounter accessibility barriers on Ciena websites by contacting webchanges@ciena.com and we will get back to you in 2-5 business days.
+Copyright © 2023 Ciena Corporation. All rights reserved.
